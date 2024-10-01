@@ -1,0 +1,8033 @@
+fileFormatVersion: 2
+guid: b8828dc78f6cc479aace45332cb52fb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7742485106630976821
+    second: boss_crab 1_0
+  - first:
+      213: -4258028219991870989
+    second: boss_crab 1_0
+  - first:
+      213: 6171857441027636336
+    second: boss_crab 1_1
+  - first:
+      213: -4530396687628393262
+    second: boss_crab 1_2
+  - first:
+      213: -6419508570341308145
+    second: boss_crab 1_3
+  - first:
+      213: -3080444506323401769
+    second: boss_crab 1_4
+  - first:
+      213: 1276928518279306292
+    second: boss_crab 1_5
+  - first:
+      213: 4901868946716190632
+    second: boss_crab 1_6
+  - first:
+      213: -6252238291805920896
+    second: boss_crab 1_7
+  - first:
+      213: -1279764435470036861
+    second: boss_crab 1_8
+  - first:
+      213: -7562269516672222287
+    second: boss_crab 1_9
+  - first:
+      213: 6290121582763261242
+    second: boss_crab 1_10
+  - first:
+      213: -6352358478636305962
+    second: boss_crab 1_11
+  - first:
+      213: -8251372684757709053
+    second: boss_crab 1_12
+  - first:
+      213: 2401807824396775184
+    second: boss_crab 1_13
+  - first:
+      213: 8597500766674289873
+    second: boss_crab 1_14
+  - first:
+      213: 6767956603231814745
+    second: boss_crab 1_15
+  - first:
+      213: -5183900152922852387
+    second: boss_crab 1_16
+  - first:
+      213: 8772260299590610755
+    second: boss_crab 1_17
+  - first:
+      213: -9189659569076878979
+    second: boss_crab 1_18
+  - first:
+      213: -9059635877125432014
+    second: boss_crab 1_19
+  - first:
+      213: 8251864446991335965
+    second: boss_crab 1_20
+  - first:
+      213: 5063625916196684066
+    second: boss_crab 1_21
+  - first:
+      213: -4875551926485191690
+    second: boss_crab 1_22
+  - first:
+      213: -4713274821294270425
+    second: boss_crab 1_23
+  - first:
+      213: -5294310554171637848
+    second: boss_crab 1_24
+  - first:
+      213: 1869879547985822863
+    second: boss_crab 1_25
+  - first:
+      213: 1917608515075193540
+    second: boss_crab 1_26
+  - first:
+      213: -4281796412910156102
+    second: boss_crab 1_27
+  - first:
+      213: 7502427200947938731
+    second: boss_crab 1_28
+  - first:
+      213: 3722865292935145749
+    second: boss_crab 1_29
+  - first:
+      213: -7687282875406746072
+    second: boss_crab 1_30
+  - first:
+      213: 3612696302327027730
+    second: boss_crab 1_31
+  - first:
+      213: -7755105589727786832
+    second: boss_crab 1_32
+  - first:
+      213: 8314805378676144975
+    second: boss_crab 1_33
+  - first:
+      213: -4267505845756752578
+    second: boss_crab 1_34
+  - first:
+      213: 1940084599363784614
+    second: boss_crab 1_35
+  - first:
+      213: -5815036403455153206
+    second: boss_crab 1_36
+  - first:
+      213: 3162298479934123770
+    second: boss_crab 1_37
+  - first:
+      213: 7420249799212357346
+    second: boss_crab 1_38
+  - first:
+      213: 3874111540427139032
+    second: boss_crab 1_39
+  - first:
+      213: 5582229960002316828
+    second: boss_crab 1_40
+  - first:
+      213: -2498813974812078419
+    second: boss_crab 1_41
+  - first:
+      213: -1982143426926532583
+    second: boss_crab 1_42
+  - first:
+      213: 8137005484760160431
+    second: boss_crab 1_43
+  - first:
+      213: -5417582935532384328
+    second: boss_crab 1_44
+  - first:
+      213: -3542280744796427486
+    second: boss_crab 1_45
+  - first:
+      213: -1679947412553248535
+    second: boss_crab 1_46
+  - first:
+      213: -9090398184382208217
+    second: boss_crab 1_47
+  - first:
+      213: 3285606249815531050
+    second: boss_crab 1_48
+  - first:
+      213: -4107365142740512494
+    second: boss_crab 1_49
+  - first:
+      213: 8644666712524635488
+    second: boss_crab 1_50
+  - first:
+      213: -1150934422429340316
+    second: boss_crab 1_51
+  - first:
+      213: 2408317437408417945
+    second: boss_crab 1_52
+  - first:
+      213: -8898735340427173317
+    second: boss_crab 1_53
+  - first:
+      213: -3383494366795382787
+    second: boss_crab 1_54
+  - first:
+      213: 4649437328576620911
+    second: boss_crab 1_55
+  - first:
+      213: 6180985232850185513
+    second: boss_crab 1_56
+  - first:
+      213: 5936990398951824350
+    second: boss_crab 1_57
+  - first:
+      213: 5962492836236787389
+    second: boss_crab 1_58
+  - first:
+      213: -4733603538902350081
+    second: boss_crab 1_59
+  - first:
+      213: 6299269710688039667
+    second: boss_crab 1_60
+  - first:
+      213: 4099078946827449154
+    second: boss_crab 1_61
+  - first:
+      213: 8405817637077981006
+    second: boss_crab 1_62
+  - first:
+      213: -4882925214191114588
+    second: boss_crab 1_63
+  - first:
+      213: 6578780994151387539
+    second: boss_crab 1_64
+  - first:
+      213: 2080217311364539443
+    second: boss_crab 1_65
+  - first:
+      213: 4819941115249184188
+    second: boss_crab 1_66
+  - first:
+      213: 3259487971760762611
+    second: boss_crab 1_67
+  - first:
+      213: 896799144536074442
+    second: boss_crab 1_68
+  - first:
+      213: 8290913012363712228
+    second: boss_crab 1_69
+  - first:
+      213: -3792969755640726698
+    second: boss_crab 1_70
+  - first:
+      213: -729466446955028888
+    second: boss_crab 1_71
+  - first:
+      213: 5065760143806556194
+    second: boss_crab 1_72
+  - first:
+      213: -1294665469980087527
+    second: boss_crab 1_73
+  - first:
+      213: 8039292597202765831
+    second: boss_crab 1_74
+  - first:
+      213: 8938519519697000620
+    second: boss_crab 1_75
+  - first:
+      213: -2630200781783481259
+    second: boss_crab 1_76
+  - first:
+      213: 2350241759966117272
+    second: boss_crab 1_77
+  - first:
+      213: -8235571793122024308
+    second: boss_crab 1_78
+  - first:
+      213: 7212977816022872172
+    second: boss_crab 1_79
+  - first:
+      213: -4665999179272726453
+    second: boss_crab 1_80
+  - first:
+      213: 3943641752518568275
+    second: boss_crab 1_81
+  - first:
+      213: -7031005746241285522
+    second: boss_crab 1_82
+  - first:
+      213: -6142921058013053612
+    second: boss_crab 1_83
+  - first:
+      213: 1138884726139639352
+    second: boss_crab 1_84
+  - first:
+      213: -4985986289966755499
+    second: boss_crab 1_85
+  - first:
+      213: 4421099030216688572
+    second: boss_crab 1_86
+  - first:
+      213: 4302141305122664366
+    second: boss_crab 1_87
+  - first:
+      213: 7538701483368651281
+    second: boss_crab 1_88
+  - first:
+      213: -1343830254297959243
+    second: boss_crab 1_89
+  - first:
+      213: -3419326694068628681
+    second: boss_crab 1_90
+  - first:
+      213: -8973107736106856586
+    second: boss_crab 1_91
+  - first:
+      213: 9078673350990234035
+    second: boss_crab 1_92
+  - first:
+      213: 2796540458956793731
+    second: boss_crab 1_93
+  - first:
+      213: -2650639833156050612
+    second: boss_crab 1_94
+  - first:
+      213: -2949897496731201452
+    second: boss_crab 1_95
+  - first:
+      213: 8233668014799593203
+    second: boss_crab 1_96
+  - first:
+      213: 2192901374776255579
+    second: boss_crab 1_97
+  - first:
+      213: 4960610734472520675
+    second: boss_crab 1_98
+  - first:
+      213: 2258322028304326442
+    second: boss_crab 1_99
+  - first:
+      213: 8823786691960334649
+    second: boss_crab 1_100
+  - first:
+      213: 120911621153489890
+    second: boss_crab 1_101
+  - first:
+      213: 2987818952824466466
+    second: boss_crab 1_102
+  - first:
+      213: -4902555273728150376
+    second: boss_crab 1_103
+  - first:
+      213: -427827786522548848
+    second: boss_crab 1_104
+  - first:
+      213: 4891244096556550973
+    second: boss_crab 1_105
+  - first:
+      213: 1640924561711976815
+    second: boss_crab 1_106
+  - first:
+      213: 1375517614323202098
+    second: boss_crab 1_107
+  - first:
+      213: 9068521758238807092
+    second: boss_crab 1_108
+  - first:
+      213: -1981478807918978127
+    second: boss_crab 1_109
+  - first:
+      213: 8995799688800910857
+    second: boss_crab 1_110
+  - first:
+      213: 6096801253405296946
+    second: boss_crab 1_111
+  - first:
+      213: 7776201729732394936
+    second: boss_crab 1_112
+  - first:
+      213: 9208957569851569045
+    second: boss_crab 1_113
+  - first:
+      213: -3010749149903001658
+    second: boss_crab 1_114
+  - first:
+      213: 6253239329277789104
+    second: boss_crab 1_115
+  - first:
+      213: 9131623158186182267
+    second: boss_crab 1_116
+  - first:
+      213: 7011839395184314246
+    second: boss_crab 1_117
+  - first:
+      213: 8694398252136222207
+    second: boss_crab 1_118
+  - first:
+      213: -5021639497572736030
+    second: boss_crab 1_119
+  - first:
+      213: 1078521115558935195
+    second: boss_crab 1_120
+  - first:
+      213: 9118417030642569906
+    second: boss_crab 1_121
+  - first:
+      213: -8206142338255966149
+    second: boss_crab 1_122
+  - first:
+      213: -8337385781854833178
+    second: boss_crab 1_123
+  - first:
+      213: 2039957987796986730
+    second: boss_crab 1_124
+  - first:
+      213: 4871281132866412699
+    second: boss_crab 1_125
+  - first:
+      213: -831166281283628596
+    second: boss_crab 1_126
+  - first:
+      213: -8440505273293370996
+    second: boss_crab 1_127
+  - first:
+      213: -3814748729641690511
+    second: boss_crab 1_128
+  - first:
+      213: 8981627933975364200
+    second: boss_crab 1_129
+  - first:
+      213: -8831379931805488133
+    second: boss_crab 1_130
+  - first:
+      213: 3425471740914243503
+    second: boss_crab 1_131
+  - first:
+      213: 679054415687086647
+    second: boss_crab 1_132
+  - first:
+      213: 2333933184431588568
+    second: boss_crab 1_133
+  - first:
+      213: -5512927473094830874
+    second: boss_crab 1_134
+  - first:
+      213: -6802044905978131064
+    second: boss_crab 1_135
+  - first:
+      213: 8181344545966165483
+    second: boss_crab 1_136
+  - first:
+      213: 2643545979433677730
+    second: boss_crab 1_137
+  - first:
+      213: 227790954251296650
+    second: boss_crab 1_138
+  - first:
+      213: 5555807163148065441
+    second: boss_crab 1_139
+  - first:
+      213: 7325740284941423639
+    second: boss_crab 1_140
+  - first:
+      213: -2351236268672716805
+    second: boss_crab 1_141
+  - first:
+      213: 4591450456581137752
+    second: boss_crab 1_142
+  - first:
+      213: 2154418606847623181
+    second: boss_crab 1_143
+  - first:
+      213: -6708862462489337669
+    second: boss_crab 1_144
+  - first:
+      213: -5853411229758445199
+    second: boss_crab 1_145
+  - first:
+      213: 1790479092729130824
+    second: boss_crab 1_146
+  - first:
+      213: 5982388270020891416
+    second: boss_crab 1_147
+  - first:
+      213: -5373096979356948520
+    second: boss_crab 1_148
+  - first:
+      213: -4886526420044124833
+    second: boss_crab 1_149
+  - first:
+      213: -3649539710236874126
+    second: boss_crab 1_150
+  - first:
+      213: -8852796748467863314
+    second: boss_crab 1_151
+  - first:
+      213: -3926427594148214229
+    second: boss_crab 1_152
+  - first:
+      213: -4088320035419562288
+    second: boss_crab 1_153
+  - first:
+      213: 2154765228411591166
+    second: boss_crab 1_154
+  - first:
+      213: 7534411917007059796
+    second: boss_crab 1_155
+  - first:
+      213: -1069684230549285109
+    second: boss_crab 1_156
+  - first:
+      213: 8550593216320703759
+    second: boss_crab 1_157
+  - first:
+      213: 5044128564114263476
+    second: boss_crab 1_158
+  - first:
+      213: -7742471874013526786
+    second: boss_crab 1_159
+  - first:
+      213: 6637090419503645788
+    second: boss_crab 1_160
+  - first:
+      213: -4315698933309619052
+    second: boss_crab 1_161
+  - first:
+      213: -4015839319734210941
+    second: boss_crab 1_162
+  - first:
+      213: -6363005340185909113
+    second: boss_crab 1_163
+  - first:
+      213: 6968320540479927933
+    second: boss_crab 1_164
+  - first:
+      213: -274320435258056292
+    second: boss_crab 1_165
+  - first:
+      213: 2286987260470484748
+    second: boss_crab 1_166
+  - first:
+      213: 2585398291514165783
+    second: boss_crab 1_167
+  - first:
+      213: 3200246322110070323
+    second: boss_crab 1_168
+  - first:
+      213: 2372898104532052612
+    second: boss_crab 1_169
+  - first:
+      213: 2623556250736139465
+    second: boss_crab 1_170
+  - first:
+      213: -4068065573725634741
+    second: boss_crab 1_171
+  - first:
+      213: -3118974068954368131
+    second: boss_crab 1_172
+  - first:
+      213: -2409619827597570641
+    second: boss_crab 1_173
+  - first:
+      213: 2530333033660922861
+    second: boss_crab 1_174
+  - first:
+      213: -1941339473070106303
+    second: boss_crab 1_175
+  - first:
+      213: 5989568043611328419
+    second: boss_crab 1_176
+  - first:
+      213: -6615627525771143099
+    second: boss_crab 1_177
+  - first:
+      213: 9047224960335101771
+    second: boss_crab 1_178
+  - first:
+      213: -9014845486687582807
+    second: boss_crab 1_179
+  - first:
+      213: -6363986255021677863
+    second: boss_crab 1_180
+  - first:
+      213: 4493271653686943305
+    second: boss_crab 1_181
+  - first:
+      213: 2697323662665222697
+    second: boss_crab 1_182
+  - first:
+      213: -127918608511516086
+    second: boss_crab 1_183
+  - first:
+      213: -3974879386793124121
+    second: boss_crab 1_184
+  - first:
+      213: -3378145188769203266
+    second: boss_crab 1_185
+  - first:
+      213: 3112091526310997912
+    second: boss_crab 1_186
+  - first:
+      213: -5983120626047974440
+    second: boss_crab 1_187
+  - first:
+      213: 5855928912087728569
+    second: boss_crab 1_188
+  - first:
+      213: -8871583610469317328
+    second: boss_crab 1_189
+  - first:
+      213: 5249145548374318463
+    second: boss_crab 1_190
+  - first:
+      213: -8347703895791195691
+    second: boss_crab 1_191
+  - first:
+      213: 3956511379502795981
+    second: boss_crab 1_192
+  - first:
+      213: 9135164702542513901
+    second: boss_crab 1_193
+  - first:
+      213: 3265568187290875109
+    second: boss_crab 1_194
+  - first:
+      213: 2364334521763110995
+    second: boss_crab 1_195
+  - first:
+      213: 244818806964937007
+    second: boss_crab 1_196
+  - first:
+      213: -5100076419287534741
+    second: boss_crab 1_197
+  - first:
+      213: -3913871643219865855
+    second: boss_crab 1_198
+  - first:
+      213: -6116251494784275901
+    second: boss_crab 1_199
+  - first:
+      213: 3336543349845082713
+    second: boss_crab 1_200
+  - first:
+      213: -3576855258059564990
+    second: boss_crab 1_201
+  - first:
+      213: -5300876599186398804
+    second: boss_crab 1_202
+  - first:
+      213: 5324779860063170640
+    second: boss_crab 1_203
+  - first:
+      213: 9091353473748977352
+    second: boss_crab 1_204
+  - first:
+      213: -8139679130799673290
+    second: boss_crab 1_205
+  - first:
+      213: 9218851200635914617
+    second: boss_crab 1_206
+  - first:
+      213: -450080387392717775
+    second: boss_crab 1_207
+  - first:
+      213: -2152115355672372024
+    second: boss_crab 1_208
+  - first:
+      213: -5083211365945232505
+    second: boss_crab 1_209
+  - first:
+      213: 6666883908005865772
+    second: boss_crab 1_210
+  - first:
+      213: 7637476924595547549
+    second: boss_crab 1_211
+  - first:
+      213: -4585244368717315366
+    second: boss_crab 1_212
+  - first:
+      213: 5289866374581380267
+    second: boss_crab 1_213
+  - first:
+      213: 112266145682651509
+    second: boss_crab 1_214
+  - first:
+      213: -9055891856733935552
+    second: boss_crab 1_215
+  - first:
+      213: 9204626894546769132
+    second: boss_crab 1_216
+  - first:
+      213: 1517766881988687321
+    second: boss_crab 1_217
+  - first:
+      213: -4013222199288056800
+    second: boss_crab 1_218
+  - first:
+      213: 9152328741482241488
+    second: boss_crab 1_219
+  - first:
+      213: 2681772335649917683
+    second: boss_crab 1_220
+  - first:
+      213: 8938580594434607347
+    second: boss_crab 1_221
+  - first:
+      213: 1918326204050784100
+    second: boss_crab 1_222
+  - first:
+      213: -1040332031428220725
+    second: boss_crab 1_223
+  - first:
+      213: 8139639449711919286
+    second: boss_crab 1_224
+  - first:
+      213: 3597673594007825565
+    second: boss_crab 1_225
+  - first:
+      213: 6391351843405537001
+    second: boss_crab 1_226
+  - first:
+      213: -3672825699914563119
+    second: boss_crab 1_227
+  - first:
+      213: -8489633279055793371
+    second: boss_crab 1_228
+  - first:
+      213: 4319689437162272930
+    second: boss_crab 1_229
+  - first:
+      213: 4429211805088101008
+    second: boss_crab 1_230
+  - first:
+      213: 2049533179298726842
+    second: boss_crab 1_231
+  - first:
+      213: 8898902335453024974
+    second: boss_crab 1_232
+  - first:
+      213: -1831975346648578803
+    second: boss_crab 1_233
+  - first:
+      213: 8496177232240761011
+    second: boss_crab 1_234
+  - first:
+      213: -1171985725562786213
+    second: boss_crab 1_235
+  - first:
+      213: -8766296512608531430
+    second: boss_crab 1_236
+  - first:
+      213: -1108650611303996219
+    second: boss_crab 1_237
+  - first:
+      213: 4406002499451152197
+    second: boss_crab 1_238
+  - first:
+      213: -8843293706666580515
+    second: boss_crab 1_239
+  - first:
+      213: -5077108366302364369
+    second: boss_crab 1_240
+  - first:
+      213: -5245974682670441501
+    second: boss_crab 1_241
+  - first:
+      213: 4891698245160875911
+    second: boss_crab 1_242
+  - first:
+      213: 2451245190539439034
+    second: boss_crab 1_243
+  - first:
+      213: 3199672855222599013
+    second: boss_crab 1_244
+  - first:
+      213: -2064764312233473230
+    second: boss_crab 1_245
+  - first:
+      213: -5258546985653948764
+    second: boss_crab 1_246
+  - first:
+      213: 4979314973541693929
+    second: boss_crab 1_247
+  - first:
+      213: 4442444146216516856
+    second: boss_crab 1_248
+  - first:
+      213: -4726617161980022108
+    second: boss_crab 1_249
+  - first:
+      213: -770127991615765570
+    second: boss_crab 1_250
+  - first:
+      213: -2772503632675087425
+    second: boss_crab 1_251
+  - first:
+      213: -2532326220915642915
+    second: boss_crab 1_252
+  - first:
+      213: -5936086200497284176
+    second: boss_crab 1_253
+  - first:
+      213: -6979194392779977889
+    second: boss_crab 1_254
+  - first:
+      213: 16649241290382663
+    second: boss_crab 1_255
+  - first:
+      213: 5284232706663981817
+    second: boss_crab 1_256
+  - first:
+      213: 3583539393542576495
+    second: boss_crab 1_257
+  - first:
+      213: 5438466835032569512
+    second: boss_crab 1_258
+  - first:
+      213: 5079444848073780513
+    second: boss_crab 1_259
+  - first:
+      213: 524917267684280276
+    second: boss_crab 1_260
+  - first:
+      213: -1637211675039143707
+    second: boss_crab 1_261
+  - first:
+      213: -6736374949872953194
+    second: boss_crab 1_262
+  - first:
+      213: 4239111041917133940
+    second: boss_crab 1_263
+  - first:
+      213: -3634244102670746332
+    second: boss_crab 1_264
+  - first:
+      213: 1830072463678203436
+    second: boss_crab 1_265
+  - first:
+      213: -6438644784718806462
+    second: boss_crab 1_266
+  - first:
+      213: 6747394004585589121
+    second: boss_crab 1_267
+  - first:
+      213: -3519623064822741350
+    second: boss_crab 1_268
+  - first:
+      213: 3536128546387430575
+    second: boss_crab 1_269
+  - first:
+      213: -4050744156386802089
+    second: boss_crab 1_270
+  - first:
+      213: -1177397010200680534
+    second: boss_crab 1_271
+  - first:
+      213: 9154299669027229277
+    second: boss_crab 1_272
+  - first:
+      213: -8828164120842087546
+    second: boss_crab 1_273
+  - first:
+      213: -2046095230560951595
+    second: boss_crab 1_274
+  - first:
+      213: 4161578804047394008
+    second: boss_crab 1_275
+  - first:
+      213: 3815346785862172993
+    second: boss_crab 1_276
+  - first:
+      213: 9033260085468617937
+    second: boss_crab 1_277
+  - first:
+      213: -1457261916922908198
+    second: boss_crab 1_278
+  - first:
+      213: 3376627075774388434
+    second: boss_crab 1_279
+  - first:
+      213: -1059443344533581682
+    second: boss_crab 1_280
+  - first:
+      213: 7589885402849548827
+    second: boss_crab 1_281
+  - first:
+      213: 113869860932617652
+    second: boss_crab 1_282
+  - first:
+      213: 1582003212864060561
+    second: boss_crab 1_283
+  - first:
+      213: 6030623679952563139
+    second: boss_crab 1_284
+  - first:
+      213: -2031496838902573282
+    second: boss_crab 1_285
+  - first:
+      213: 3181683974105384248
+    second: boss_crab 1_286
+  - first:
+      213: -4260117076981005832
+    second: boss_crab 1_287
+  - first:
+      213: 3905579224647648391
+    second: boss_crab 1_288
+  - first:
+      213: 4723205339464786306
+    second: boss_crab 1_289
+  - first:
+      213: -6894598791275296411
+    second: boss_crab 1_290
+  - first:
+      213: -5585875703032443219
+    second: boss_crab 1_291
+  - first:
+      213: -4545849964920862652
+    second: boss_crab 1_292
+  - first:
+      213: 3163259156485387100
+    second: boss_crab 1_293
+  - first:
+      213: -3408289221918658484
+    second: boss_crab 1_294
+  - first:
+      213: -4675338921667000336
+    second: boss_crab 1_295
+  - first:
+      213: 4101979273000429680
+    second: boss_crab 1_296
+  - first:
+      213: -8932308327973090656
+    second: boss_crab 1_297
+  - first:
+      213: 5782393048532242169
+    second: boss_crab 1_298
+  - first:
+      213: 4382630471363815380
+    second: boss_crab 1_299
+  - first:
+      213: -4543326989973305621
+    second: boss_crab 1_300
+  - first:
+      213: 5508150576673451129
+    second: boss_crab 1_301
+  - first:
+      213: 4725821170895422498
+    second: boss_crab 1_302
+  - first:
+      213: -7849096881186178702
+    second: boss_crab 1_303
+  - first:
+      213: 93782820939365329
+    second: boss_crab 1_304
+  - first:
+      213: 5429736632547325501
+    second: boss_crab 1_305
+  - first:
+      213: -5612957479348589805
+    second: boss_crab 1_306
+  - first:
+      213: -4452619228922366969
+    second: boss_crab 1_307
+  - first:
+      213: -4768486469534757816
+    second: boss_crab 1_308
+  - first:
+      213: -3245359804293979829
+    second: boss_crab 1_309
+  - first:
+      213: 1865293620702449961
+    second: boss_crab 1_310
+  - first:
+      213: -6406989278275287445
+    second: boss_crab 1_311
+  - first:
+      213: 7339270357121335886
+    second: boss_crab 1_312
+  - first:
+      213: 75405357727194452
+    second: boss_crab 1_313
+  - first:
+      213: 8337192654523746747
+    second: boss_crab 1_314
+  - first:
+      213: -5546435957411902232
+    second: boss_crab 1_315
+  - first:
+      213: 6989476221499728769
+    second: boss_crab 1_316
+  - first:
+      213: 8879778097266409384
+    second: boss_crab 1_317
+  - first:
+      213: 6481580954367001063
+    second: boss_crab 1_318
+  - first:
+      213: -891518689393306251
+    second: boss_crab 1_319
+  - first:
+      213: -8976882427240582640
+    second: boss_crab 1_320
+  - first:
+      213: -4481647532206535323
+    second: boss_crab 1_321
+  - first:
+      213: -1461748297654224261
+    second: boss_crab 1_322
+  - first:
+      213: 594118419063885255
+    second: boss_crab 1_323
+  - first:
+      213: 223128795139751370
+    second: boss_crab 1_324
+  - first:
+      213: 6515465664352484015
+    second: boss_crab 1_325
+  - first:
+      213: -8218689348109906581
+    second: boss_crab 1_326
+  - first:
+      213: 613924336994771094
+    second: boss_crab 1_327
+  - first:
+      213: 4808955664560089607
+    second: boss_crab 1_328
+  - first:
+      213: 8691387243775551665
+    second: boss_crab 1_329
+  - first:
+      213: -435619517775929036
+    second: boss_crab 1_330
+  - first:
+      213: -5979427843113130013
+    second: boss_crab 1_331
+  - first:
+      213: -333007661050180552
+    second: boss_crab 1_332
+  - first:
+      213: -8187753521278683415
+    second: boss_crab 1_333
+  - first:
+      213: 3066553405065538658
+    second: boss_crab 1_334
+  - first:
+      213: -6565929549236830987
+    second: boss_crab 1_335
+  - first:
+      213: -8006790387707698270
+    second: boss_crab 1_336
+  - first:
+      213: 9134601962014730788
+    second: boss_crab 1_337
+  - first:
+      213: -2184323562390937135
+    second: boss_crab 1_338
+  - first:
+      213: 2995833738241966757
+    second: boss_crab 1_339
+  - first:
+      213: 3217363723928414557
+    second: boss_crab 1_340
+  - first:
+      213: 5404397271339271145
+    second: boss_crab 1_341
+  - first:
+      213: -5993544875566207966
+    second: boss_crab 1_342
+  - first:
+      213: 5817781572370295974
+    second: boss_crab 1_343
+  - first:
+      213: 4212709375140720486
+    second: boss_crab 1_344
+  - first:
+      213: -3519844259906150398
+    second: boss_crab 1_345
+  - first:
+      213: 3494642252667226364
+    second: boss_crab 1_346
+  - first:
+      213: -4967578867834885620
+    second: boss_crab 1_347
+  - first:
+      213: -5689028655344836429
+    second: boss_crab 1_348
+  - first:
+      213: 182655597286202981
+    second: boss_crab 1_349
+  - first:
+      213: 4292700684294185348
+    second: boss_crab 1_350
+  - first:
+      213: 7051100243507000010
+    second: boss_crab 1_351
+  - first:
+      213: -1344304348696979604
+    second: boss_crab 1_352
+  - first:
+      213: -5280958666246418959
+    second: boss_crab 1_353
+  - first:
+      213: 1120046014097121349
+    second: boss_crab 1_354
+  - first:
+      213: 3288953491439052654
+    second: boss_crab 1_355
+  - first:
+      213: -3221613994986107313
+    second: boss_crab 1_356
+  - first:
+      213: -4048359694765691447
+    second: boss_crab 1_357
+  - first:
+      213: -7546918274776232064
+    second: boss_crab 1_358
+  - first:
+      213: -5026270602944788389
+    second: boss_crab 1_359
+  - first:
+      213: 2167171861359150363
+    second: boss_crab 1_360
+  - first:
+      213: 3962097537597236655
+    second: boss_crab 1_361
+  - first:
+      213: 1266898770345720658
+    second: boss_crab 1_362
+  - first:
+      213: -6512853219069245725
+    second: boss_crab 1_363
+  - first:
+      213: -1820320785322835941
+    second: boss_crab 1_364
+  - first:
+      213: 7671207745181114946
+    second: boss_crab 1_365
+  - first:
+      213: 1405582082960168691
+    second: boss_crab 1_366
+  - first:
+      213: -7799144021486755894
+    second: boss_crab 1_367
+  - first:
+      213: -6114367548171476501
+    second: boss_crab 1_368
+  - first:
+      213: -5131489745671387888
+    second: boss_crab 1_369
+  - first:
+      213: -8869796622767179799
+    second: boss_crab 1_370
+  - first:
+      213: 2245482500698945691
+    second: boss_crab 1_371
+  - first:
+      213: -5359543496520595134
+    second: boss_crab 1_372
+  - first:
+      213: 4836471205419108516
+    second: boss_crab 1_373
+  - first:
+      213: -2794332191632027459
+    second: boss_crab 1_374
+  - first:
+      213: -5942800705894153867
+    second: boss_crab 1_375
+  - first:
+      213: -2721639481862799218
+    second: boss_crab 1_376
+  - first:
+      213: 7566689886683366426
+    second: boss_crab 1_377
+  - first:
+      213: 3580825641689959627
+    second: boss_crab 1_378
+  - first:
+      213: 188039984903084560
+    second: boss_crab 1_379
+  - first:
+      213: -2649635763639811753
+    second: boss_crab 1_380
+  - first:
+      213: -4453210971478896223
+    second: boss_crab 1_381
+  - first:
+      213: -8819074490876338464
+    second: boss_crab 1_382
+  - first:
+      213: 4618658221593913997
+    second: boss_crab 1_383
+  - first:
+      213: -7840044593905904887
+    second: boss_crab 1_384
+  - first:
+      213: 3696091822360238071
+    second: boss_crab 1_385
+  - first:
+      213: 779790412843163940
+    second: boss_crab 1_386
+  - first:
+      213: 1701430753627815119
+    second: boss_crab 1_387
+  - first:
+      213: 210644446987509161
+    second: boss_crab 1_388
+  - first:
+      213: 719348390465236472
+    second: boss_crab 1_389
+  - first:
+      213: -3051080618236662387
+    second: boss_crab 1_390
+  - first:
+      213: -1941052618539867726
+    second: boss_crab 1_391
+  - first:
+      213: -6633973734175583455
+    second: boss_crab 1_392
+  - first:
+      213: 6752504187965587947
+    second: boss_crab 1_393
+  - first:
+      213: 6845624528372948105
+    second: boss_crab 1_394
+  - first:
+      213: 2857020587055204994
+    second: boss_crab 1_395
+  - first:
+      213: -4874891225634347787
+    second: boss_crab 1_396
+  - first:
+      213: 9169500661243505171
+    second: boss_crab 1_397
+  - first:
+      213: 221078213659454409
+    second: boss_crab 1_398
+  - first:
+      213: -4464692191664389996
+    second: boss_crab 1_399
+  - first:
+      213: -8148046980609210748
+    second: boss_crab 1_400
+  - first:
+      213: -8789540689039123088
+    second: boss_crab 1_401
+  - first:
+      213: 4760625887183701363
+    second: boss_crab 1_402
+  - first:
+      213: -5178339384889369493
+    second: boss_crab 1_403
+  - first:
+      213: -820215499493048682
+    second: boss_crab 1_404
+  - first:
+      213: -2343822777130349938
+    second: boss_crab 1_405
+  - first:
+      213: 6606420088376957727
+    second: boss_crab 1_406
+  - first:
+      213: -4583702516025962931
+    second: boss_crab 1_407
+  - first:
+      213: -5150225492966409679
+    second: boss_crab 1_408
+  - first:
+      213: 6980343369287984098
+    second: boss_crab 1_409
+  - first:
+      213: -65989677185557144
+    second: boss_crab 1_410
+  - first:
+      213: -331252252417124377
+    second: boss_crab 1_411
+  - first:
+      213: 6292081726134789680
+    second: boss_crab 1_412
+  - first:
+      213: -9195688691916794612
+    second: boss_crab 1_413
+  - first:
+      213: 327277951633953899
+    second: boss_crab 1_414
+  - first:
+      213: -4753085563983954721
+    second: boss_crab 1_415
+  - first:
+      213: -6593006484096137204
+    second: boss_crab 1_416
+  - first:
+      213: -7439085328010395058
+    second: boss_crab 1_417
+  - first:
+      213: 51817855009669566
+    second: boss_crab 1_418
+  - first:
+      213: 3013964655194964918
+    second: boss_crab 1_419
+  - first:
+      213: -1853784524498222761
+    second: boss_crab 1_420
+  - first:
+      213: 146518429213836731
+    second: boss_crab 1_421
+  - first:
+      213: -4044118103713476373
+    second: boss_crab 1_422
+  - first:
+      213: -8858813847407214280
+    second: boss_crab 1_423
+  - first:
+      213: -5967507520785317174
+    second: boss_crab 1_424
+  - first:
+      213: -93407762082411042
+    second: boss_crab 1_425
+  - first:
+      213: -6623527825057349126
+    second: boss_crab 1_426
+  - first:
+      213: 8223459393856063067
+    second: boss_crab 1_427
+  - first:
+      213: -1643011129784781408
+    second: boss_crab 1_428
+  - first:
+      213: -6885444281999995234
+    second: boss_crab 1_429
+  - first:
+      213: -1241572493900535195
+    second: boss_crab 1_430
+  - first:
+      213: 1231664748086544301
+    second: boss_crab 1_431
+  - first:
+      213: 4782543747882444000
+    second: boss_crab 1_432
+  - first:
+      213: -1838405480444784886
+    second: boss_crab 1_433
+  - first:
+      213: 3922891124262706386
+    second: boss_crab 1_434
+  - first:
+      213: 9029966541970061176
+    second: boss_crab 1_435
+  - first:
+      213: -3414859872446931348
+    second: boss_crab 1_436
+  - first:
+      213: 8120116359457791537
+    second: boss_crab 1_437
+  - first:
+      213: -7364073537907424735
+    second: boss_crab 1_438
+  - first:
+      213: -2096516641446951692
+    second: boss_crab 1_439
+  - first:
+      213: -3566056169778778737
+    second: boss_crab 1_440
+  - first:
+      213: -3996069226237002269
+    second: boss_crab 1_441
+  - first:
+      213: 967608632076996005
+    second: boss_crab 1_442
+  - first:
+      213: -6512978782359127944
+    second: boss_crab 1_443
+  - first:
+      213: -6317026794069671687
+    second: boss_crab 1_444
+  - first:
+      213: 2161810820574889277
+    second: boss_crab 1_445
+  - first:
+      213: -3574175034748342524
+    second: boss_crab 1_446
+  - first:
+      213: -7421961158297549692
+    second: boss_crab 1_447
+  - first:
+      213: -6427025276972041888
+    second: boss_crab 1_448
+  - first:
+      213: 2671083942901814392
+    second: boss_crab 1_449
+  - first:
+      213: -9120221676827716715
+    second: boss_crab 1_450
+  - first:
+      213: -8337386779624776256
+    second: boss_crab 1_451
+  - first:
+      213: 1654581178162508167
+    second: boss_crab 1_452
+  - first:
+      213: 3714285931098340033
+    second: boss_crab 1_453
+  - first:
+      213: 8495744497730294938
+    second: boss_crab 1_454
+  - first:
+      213: -2117203249617702045
+    second: boss_crab 1_455
+  - first:
+      213: 7444730526487883966
+    second: boss_crab 1_456
+  - first:
+      213: 7960588376599177871
+    second: boss_crab 1_457
+  - first:
+      213: 7286694219070164714
+    second: boss_crab 1_458
+  - first:
+      213: 1438549197722588053
+    second: boss_crab 1_459
+  - first:
+      213: -5847164060790200934
+    second: boss_crab 1_460
+  - first:
+      213: 1505583369802771933
+    second: boss_crab 1_461
+  - first:
+      213: -2758323632070115879
+    second: boss_crab 1_462
+  - first:
+      213: -6214109754843839757
+    second: boss_crab 1_463
+  - first:
+      213: 1042039343123009236
+    second: boss_crab 1_464
+  - first:
+      213: -615393035734831456
+    second: boss_crab 1_465
+  - first:
+      213: -15003277606081694
+    second: boss_crab 1_466
+  - first:
+      213: -754993117244847211
+    second: boss_crab 1_467
+  - first:
+      213: -8464778539319389177
+    second: boss_crab 1_468
+  - first:
+      213: -545163951502699663
+    second: boss_crab 1_469
+  - first:
+      213: -8275619285746933679
+    second: boss_crab 1_470
+  - first:
+      213: 1028831577133436539
+    second: boss_crab 1_471
+  - first:
+      213: 4910683252845896826
+    second: boss_crab 1_472
+  - first:
+      213: 3353352437479053759
+    second: boss_crab 1_473
+  - first:
+      213: 1621181201369779290
+    second: boss_crab 1_474
+  - first:
+      213: -6192160126074725984
+    second: boss_crab 1_475
+  - first:
+      213: -3820411383177949663
+    second: boss_crab 1_476
+  - first:
+      213: -4628992013322190880
+    second: boss_crab 1_477
+  - first:
+      213: -3499972738402266566
+    second: boss_crab 1_478
+  - first:
+      213: -2448694550378527143
+    second: boss_crab 1_479
+  - first:
+      213: -6360259376998085482
+    second: boss_crab 1_480
+  - first:
+      213: 338475930025063984
+    second: boss_crab 1_481
+  - first:
+      213: -6286707768896415521
+    second: boss_crab 1_482
+  - first:
+      213: -1992875871404778677
+    second: boss_crab 1_483
+  - first:
+      213: 5842483343300608199
+    second: boss_crab 1_484
+  - first:
+      213: -2787898576710473513
+    second: boss_crab 1_485
+  - first:
+      213: 6926302297070968947
+    second: boss_crab 1_486
+  - first:
+      213: -6698778539622813726
+    second: boss_crab 1_487
+  - first:
+      213: 4067217295092359878
+    second: boss_crab 1_488
+  - first:
+      213: 4592836812659942581
+    second: boss_crab 1_489
+  - first:
+      213: -1448117143439131199
+    second: boss_crab 1_490
+  - first:
+      213: -4651084925061882617
+    second: boss_crab 1_491
+  - first:
+      213: 706903748732362811
+    second: boss_crab 1_492
+  - first:
+      213: 3379264288376649161
+    second: boss_crab 1_493
+  - first:
+      213: 6317919833190501833
+    second: boss_crab 1_494
+  - first:
+      213: 5251202937493136013
+    second: boss_crab 1_495
+  - first:
+      213: -4765749681550621557
+    second: boss_crab 1_496
+  - first:
+      213: -2847751755326502036
+    second: boss_crab 1_497
+  - first:
+      213: -7439487819804973160
+    second: boss_crab 1_498
+  - first:
+      213: 3527046076257520393
+    second: boss_crab 1_499
+  - first:
+      213: -6573606426907737607
+    second: boss_crab 1_500
+  - first:
+      213: -5618667478691768256
+    second: boss_crab 1_501
+  - first:
+      213: -2785098798115144231
+    second: boss_crab 1_502
+  - first:
+      213: -1565833938805907063
+    second: boss_crab 1_503
+  - first:
+      213: 795545578229912193
+    second: boss_crab 1_504
+  - first:
+      213: 7462919083834623538
+    second: boss_crab 1_505
+  - first:
+      213: 5933903140684241590
+    second: boss_crab 1_506
+  - first:
+      213: 2500289676737090260
+    second: boss_crab 1_507
+  - first:
+      213: 6610447849748617526
+    second: boss_crab 1_508
+  - first:
+      213: -8739572637238132226
+    second: boss_crab 1_509
+  - first:
+      213: -4495889464743410929
+    second: boss_crab 1_510
+  - first:
+      213: -9208382551672258719
+    second: boss_crab 1_511
+  - first:
+      213: 5825889773461075878
+    second: boss_crab 1_512
+  - first:
+      213: 8073456613665165285
+    second: boss_crab 1_513
+  - first:
+      213: 3980993380077309051
+    second: boss_crab 1_514
+  - first:
+      213: -9023390885505498802
+    second: boss_crab 1_515
+  - first:
+      213: 6187278383642765822
+    second: boss_crab 1_516
+  - first:
+      213: -8752948432261744806
+    second: boss_crab 1_517
+  - first:
+      213: 5271955916598988918
+    second: boss_crab 1_518
+  - first:
+      213: -4290553208797838175
+    second: boss_crab 1_519
+  - first:
+      213: -5236574546009668998
+    second: boss_crab 1_520
+  - first:
+      213: 4986817514684118781
+    second: boss_crab 1_521
+  - first:
+      213: 98540586577348964
+    second: boss_crab 1_522
+  - first:
+      213: -1186577697664303560
+    second: boss_crab 1_523
+  - first:
+      213: 618604922512038368
+    second: boss_crab 1_524
+  - first:
+      213: -2896515877775028377
+    second: boss_crab 1_525
+  - first:
+      213: -51089631706419398
+    second: boss_crab 1_526
+  - first:
+      213: 7083045155488327927
+    second: boss_crab 1_527
+  - first:
+      213: -8696391740186746186
+    second: boss_crab 1_528
+  - first:
+      213: 3430023429045229645
+    second: boss_crab 1_529
+  - first:
+      213: -1548389663607579377
+    second: boss_crab 1_530
+  - first:
+      213: -3545050328195368559
+    second: boss_crab 1_531
+  - first:
+      213: -3655419263010582596
+    second: boss_crab 1_532
+  - first:
+      213: 4923691104798127576
+    second: boss_crab 1_533
+  - first:
+      213: -3139413019109540403
+    second: boss_crab 1_534
+  - first:
+      213: -1529428866929438183
+    second: boss_crab 1_535
+  - first:
+      213: -254998936329952460
+    second: boss_crab 1_536
+  - first:
+      213: -8913994352625439623
+    second: boss_crab 1_537
+  - first:
+      213: -8389615343692539939
+    second: boss_crab 1_538
+  - first:
+      213: -2485360203929676617
+    second: boss_crab 1_539
+  - first:
+      213: -2857529155200643468
+    second: boss_crab 1_540
+  - first:
+      213: -1563647381276843190
+    second: boss_crab 1_541
+  - first:
+      213: 4079909475503527081
+    second: boss_crab 1_542
+  - first:
+      213: 3021813805293003797
+    second: boss_crab 1_543
+  - first:
+      213: 7698988624390161690
+    second: boss_crab 1_544
+  - first:
+      213: 6025063653227513581
+    second: boss_crab 1_545
+  - first:
+      213: -6167304846084117906
+    second: boss_crab 1_546
+  - first:
+      213: -3034003809118559800
+    second: boss_crab 1_547
+  - first:
+      213: -1447566464937813934
+    second: boss_crab 1_548
+  - first:
+      213: -8915195359493589952
+    second: boss_crab 1_549
+  - first:
+      213: -5826189541813608823
+    second: boss_crab 1_550
+  - first:
+      213: 1330152187425792648
+    second: boss_crab 1_551
+  - first:
+      213: 2779566596369847433
+    second: boss_crab 1_552
+  - first:
+      213: 8218817447753902928
+    second: boss_crab 1_553
+  - first:
+      213: -6156248168903898417
+    second: boss_crab 1_554
+  - first:
+      213: 7832399496279729085
+    second: boss_crab 1_555
+  - first:
+      213: -6948050439813487599
+    second: boss_crab 1_556
+  - first:
+      213: 1718212550077979940
+    second: boss_crab 1_557
+  - first:
+      213: 8287032911424641080
+    second: boss_crab 1_558
+  - first:
+      213: 6829078906125940398
+    second: boss_crab 1_559
+  - first:
+      213: -4851476497027821304
+    second: boss_crab 1_560
+  - first:
+      213: 3566792293620886501
+    second: boss_crab 1_561
+  - first:
+      213: 6984193996688507640
+    second: boss_crab 1_562
+  - first:
+      213: -4435456219721800574
+    second: boss_crab 1_563
+  - first:
+      213: -5670859384906363657
+    second: boss_crab 1_564
+  - first:
+      213: -1762778065848653420
+    second: boss_crab 1_565
+  - first:
+      213: 7986634186541270005
+    second: boss_crab 1_566
+  - first:
+      213: -7587407531770808467
+    second: boss_crab 1_567
+  - first:
+      213: -6318600796670612480
+    second: boss_crab 1_568
+  - first:
+      213: 6703335207140371149
+    second: boss_crab 1_569
+  - first:
+      213: -4076479841827320562
+    second: boss_crab 1_570
+  - first:
+      213: -5990620535495388795
+    second: boss_crab 1_571
+  - first:
+      213: 2981076014060176696
+    second: boss_crab 1_572
+  - first:
+      213: -2420893770143547318
+    second: boss_crab 1_573
+  - first:
+      213: 4485339947435993977
+    second: boss_crab 1_574
+  - first:
+      213: 855276735880008311
+    second: boss_crab 1_575
+  - first:
+      213: -5882162237405390836
+    second: boss_crab 1_576
+  - first:
+      213: 6509822111541579126
+    second: boss_crab 1_577
+  - first:
+      213: -7410518245513458295
+    second: boss_crab 1_578
+  - first:
+      213: 6001350245043461968
+    second: boss_crab 1_579
+  - first:
+      213: 6484873377600120153
+    second: boss_crab 1_580
+  - first:
+      213: -5881872754929649159
+    second: boss_crab 1_581
+  - first:
+      213: 6120439434496724756
+    second: boss_crab 1_582
+  - first:
+      213: -7672152638947746775
+    second: boss_crab 1_583
+  - first:
+      213: -5118064832689874180
+    second: boss_crab 1_584
+  - first:
+      213: 8154595462495395673
+    second: boss_crab 1_585
+  - first:
+      213: -2599254671577235844
+    second: boss_crab 1_586
+  - first:
+      213: 4165566748012711708
+    second: boss_crab 1_587
+  - first:
+      213: -2690916723127522618
+    second: boss_crab 1_588
+  - first:
+      213: 9089455495963598467
+    second: boss_crab 1_589
+  - first:
+      213: -6377545902316619409
+    second: boss_crab 1_590
+  - first:
+      213: 1743494200410638870
+    second: boss_crab 1_591
+  - first:
+      213: 7363914412905119683
+    second: boss_crab 1_592
+  - first:
+      213: 6025632597923848606
+    second: boss_crab 1_593
+  - first:
+      213: 178437354807947174
+    second: boss_crab 1_594
+  - first:
+      213: -1879284306849110645
+    second: boss_crab 1_595
+  - first:
+      213: -260292383837209524
+    second: boss_crab 1_596
+  - first:
+      213: -4615376952021938838
+    second: boss_crab 1_597
+  - first:
+      213: 478423435734528283
+    second: boss_crab 1_598
+  - first:
+      213: 5842889322563326256
+    second: boss_crab 1_599
+  - first:
+      213: -8933126976417815758
+    second: boss_crab 1_600
+  - first:
+      213: -3647972228808523234
+    second: boss_crab 1_601
+  - first:
+      213: -8347487282140836961
+    second: boss_crab 1_602
+  - first:
+      213: -73867450811024429
+    second: boss_crab 1_603
+  - first:
+      213: 3567939756228170008
+    second: boss_crab 1_604
+  - first:
+      213: -5449393438792839397
+    second: boss_crab 1_605
+  - first:
+      213: -3361768348006506086
+    second: boss_crab 1_606
+  - first:
+      213: 4275085806764108069
+    second: boss_crab 1_607
+  - first:
+      213: 394044456840022351
+    second: boss_crab 1_608
+  - first:
+      213: 6188783830358333764
+    second: boss_crab 1_609
+  - first:
+      213: 6770514049373481622
+    second: boss_crab 1_610
+  - first:
+      213: 2435616080211718686
+    second: boss_crab 1_611
+  - first:
+      213: 9106744499480459172
+    second: boss_crab 1_612
+  - first:
+      213: 6509251503727232520
+    second: boss_crab 1_613
+  - first:
+      213: 8237336221131106247
+    second: boss_crab 1_614
+  - first:
+      213: 5405802164928833477
+    second: boss_crab 1_615
+  - first:
+      213: 4443871826482990762
+    second: boss_crab 1_616
+  - first:
+      213: -8292478325212389317
+    second: boss_crab 1_617
+  - first:
+      213: -4641270248194621177
+    second: boss_crab 1_618
+  - first:
+      213: -1098468527811288936
+    second: boss_crab 1_619
+  - first:
+      213: -9101275180400139301
+    second: boss_crab 1_620
+  - first:
+      213: 6660365044890974305
+    second: boss_crab 1_621
+  - first:
+      213: 8436011226821345062
+    second: boss_crab 1_622
+  - first:
+      213: -3004635414814099878
+    second: boss_crab 1_623
+  - first:
+      213: -1050386062124907689
+    second: boss_crab 1_624
+  - first:
+      213: 5215234316438162077
+    second: boss_crab 1_625
+  - first:
+      213: -8356206287600980725
+    second: boss_crab 1_626
+  - first:
+      213: 2528028716096950971
+    second: boss_crab 1_627
+  - first:
+      213: -8902468826554689542
+    second: boss_crab 1_628
+  - first:
+      213: 790935322509811379
+    second: boss_crab 1_629
+  - first:
+      213: 6518084286252107585
+    second: boss_crab 1_630
+  - first:
+      213: -816165814876887583
+    second: boss_crab 1_631
+  - first:
+      213: -8439419938086442815
+    second: boss_crab 1_632
+  - first:
+      213: -4635503560220276095
+    second: boss_crab 1_633
+  - first:
+      213: -5118248878339718215
+    second: boss_crab 1_634
+  - first:
+      213: -1280598419700700812
+    second: boss_crab 1_635
+  - first:
+      213: -2950757716285806639
+    second: boss_crab 1_636
+  - first:
+      213: -3672470196635088795
+    second: boss_crab 1_637
+  - first:
+      213: -3440485758595931888
+    second: boss_crab 1_638
+  - first:
+      213: -5540154037622644571
+    second: boss_crab 1_639
+  - first:
+      213: -7981999278973150196
+    second: boss_crab 1_640
+  - first:
+      213: 6772848251186396207
+    second: boss_crab 1_641
+  - first:
+      213: 3545583000715262940
+    second: boss_crab 1_642
+  - first:
+      213: -291369330348853063
+    second: boss_crab 1_643
+  - first:
+      213: -1928951958469398427
+    second: boss_crab 1_644
+  - first:
+      213: -3340021491123094220
+    second: boss_crab 1_645
+  - first:
+      213: -5350130647691792150
+    second: boss_crab 1_646
+  - first:
+      213: 2055857673344805130
+    second: boss_crab 1_647
+  - first:
+      213: -4052009746598656538
+    second: boss_crab 1_648
+  - first:
+      213: 6566170676221882908
+    second: boss_crab 1_649
+  - first:
+      213: 4296412410213081457
+    second: boss_crab 1_650
+  - first:
+      213: -2808059724575461182
+    second: boss_crab 1_651
+  - first:
+      213: -7582520780769436340
+    second: boss_crab 1_652
+  - first:
+      213: 7195176650153525991
+    second: boss_crab 1_653
+  - first:
+      213: 5292179151255533782
+    second: boss_crab 1_654
+  - first:
+      213: -3061395172011724846
+    second: boss_crab 1_655
+  - first:
+      213: -8479804504163106885
+    second: boss_crab 1_656
+  - first:
+      213: 2839188527579419510
+    second: boss_crab 1_657
+  - first:
+      213: -3091694043511695635
+    second: boss_crab 1_658
+  - first:
+      213: -4762603067806629312
+    second: boss_crab 1_659
+  - first:
+      213: -2686106935125848106
+    second: boss_crab 1_660
+  - first:
+      213: -4372247822164170965
+    second: boss_crab 1_661
+  - first:
+      213: 26340738584163271
+    second: boss_crab 1_662
+  - first:
+      213: -665302510542709298
+    second: boss_crab 1_663
+  - first:
+      213: 7596098851280392048
+    second: boss_crab 1_664
+  - first:
+      213: 2233537104869674419
+    second: boss_crab 1_665
+  - first:
+      213: 6373323063878473339
+    second: boss_crab 1_666
+  - first:
+      213: 7553811371432866053
+    second: boss_crab 1_667
+  - first:
+      213: -2672202582615053344
+    second: boss_crab 1_668
+  - first:
+      213: -1976609308972073313
+    second: boss_crab 1_669
+  - first:
+      213: -5773992402708792022
+    second: boss_crab 1_670
+  - first:
+      213: -6751598305633427193
+    second: boss_crab 1_671
+  - first:
+      213: 6309997081018637784
+    second: boss_crab 1_672
+  - first:
+      213: -5672102736978114671
+    second: boss_crab 1_673
+  - first:
+      213: -3675652022830900384
+    second: boss_crab 1_674
+  - first:
+      213: 515382749851598542
+    second: boss_crab 1_675
+  - first:
+      213: 7622704541635314714
+    second: boss_crab 1_676
+  - first:
+      213: 2383676748104601380
+    second: boss_crab 1_677
+  - first:
+      213: 7971678161680633558
+    second: boss_crab 1_678
+  - first:
+      213: -7408013133527347984
+    second: boss_crab 1_679
+  - first:
+      213: 2664742353964234213
+    second: boss_crab 1_680
+  - first:
+      213: 2081118949545060900
+    second: boss_crab 1_681
+  - first:
+      213: -94314191771692149
+    second: boss_crab 1_682
+  - first:
+      213: 8463530235979668180
+    second: boss_crab 1_683
+  - first:
+      213: 4241728907340364735
+    second: boss_crab 1_684
+  - first:
+      213: -1110027318820175854
+    second: boss_crab 1_685
+  - first:
+      213: -7196776050246711038
+    second: boss_crab 1_686
+  - first:
+      213: 4906048145965978878
+    second: boss_crab 1_687
+  - first:
+      213: -4021682340780348448
+    second: boss_crab 1_688
+  - first:
+      213: -7456542304289432055
+    second: boss_crab 1_689
+  - first:
+      213: -4869798254824867230
+    second: boss_crab 1_690
+  - first:
+      213: -668438517972470701
+    second: boss_crab 1_691
+  - first:
+      213: 2646508319162332951
+    second: boss_crab 1_692
+  - first:
+      213: -8801299827230516986
+    second: boss_crab 1_693
+  - first:
+      213: 5282633622483818797
+    second: boss_crab 1_694
+  - first:
+      213: -7102100358449743132
+    second: boss_crab 1_695
+  - first:
+      213: -8987045740742561294
+    second: boss_crab 1_696
+  - first:
+      213: -997355400356422839
+    second: boss_crab 1_697
+  - first:
+      213: 3069555172170560930
+    second: boss_crab 1_698
+  - first:
+      213: -2589587321587675367
+    second: boss_crab 1_699
+  - first:
+      213: 5185022120595980043
+    second: boss_crab 1_700
+  - first:
+      213: -5580096750663299854
+    second: boss_crab 1_701
+  - first:
+      213: 5030336578452887965
+    second: boss_crab 1_702
+  - first:
+      213: -2264592135251243238
+    second: boss_crab 1_703
+  - first:
+      213: -1755234183383645479
+    second: boss_crab 1_704
+  - first:
+      213: -8148560238181721357
+    second: boss_crab 1_705
+  - first:
+      213: -5132881844105946520
+    second: boss_crab 1_706
+  - first:
+      213: -4456218517141176718
+    second: boss_crab 1_707
+  - first:
+      213: -8606274408110555036
+    second: boss_crab 1_708
+  - first:
+      213: -6624178061337686661
+    second: boss_crab 1_709
+  - first:
+      213: -2030289993861428471
+    second: boss_crab 1_710
+  - first:
+      213: -7346310620142677482
+    second: boss_crab 1_711
+  - first:
+      213: -2926428115769420022
+    second: boss_crab 1_712
+  - first:
+      213: 5234378115061535178
+    second: boss_crab 1_713
+  - first:
+      213: 1531834433960950574
+    second: boss_crab 1_714
+  - first:
+      213: 1146489132577362893
+    second: boss_crab 1_715
+  - first:
+      213: 4448878470932203735
+    second: boss_crab 1_716
+  - first:
+      213: -2907313775737104042
+    second: boss_crab 1_717
+  - first:
+      213: 3460692417375961443
+    second: boss_crab 1_718
+  - first:
+      213: 2011361157353017451
+    second: boss_crab 1_719
+  - first:
+      213: 7799373111281935087
+    second: boss_crab 1_720
+  - first:
+      213: 6188257962292169037
+    second: boss_crab 1_721
+  - first:
+      213: -279451552882006236
+    second: boss_crab 1_722
+  - first:
+      213: -2952962355527216486
+    second: boss_crab 1_723
+  - first:
+      213: -77899178462439855
+    second: boss_crab 1_724
+  - first:
+      213: -7174021871403912184
+    second: boss_crab 1_725
+  - first:
+      213: 5681131689718341869
+    second: boss_crab 1_726
+  - first:
+      213: -7312215838720840208
+    second: boss_crab 1_727
+  - first:
+      213: -1430785607359463821
+    second: boss_crab 1_728
+  - first:
+      213: -8104781309448534287
+    second: boss_crab 1_729
+  - first:
+      213: 1648523298797951519
+    second: boss_crab 1_730
+  - first:
+      213: -7044234982598642450
+    second: boss_crab 1_731
+  - first:
+      213: 221802572133640478
+    second: boss_crab 1_732
+  - first:
+      213: 5055086364363195425
+    second: boss_crab 1_733
+  - first:
+      213: 8192165460828939921
+    second: boss_crab 1_734
+  - first:
+      213: 5788982154336069577
+    second: boss_crab 1_735
+  - first:
+      213: 5875940996144466933
+    second: boss_crab 1_736
+  - first:
+      213: -8921972782195334370
+    second: boss_crab 1_737
+  - first:
+      213: 7464193316911573622
+    second: boss_crab 1_738
+  - first:
+      213: 8108035614536341517
+    second: boss_crab 1_739
+  - first:
+      213: 4738449808692407056
+    second: boss_crab 1_740
+  - first:
+      213: 7260256445823607215
+    second: boss_crab 1_741
+  - first:
+      213: 5353685536544326156
+    second: boss_crab 1_742
+  - first:
+      213: 2222108621020375769
+    second: boss_crab 1_743
+  - first:
+      213: -5486834967031707055
+    second: boss_crab 1_744
+  - first:
+      213: 2160290908189760381
+    second: boss_crab 1_745
+  - first:
+      213: 897165276547215648
+    second: boss_crab 1_746
+  - first:
+      213: 6037791682496563815
+    second: boss_crab 1_747
+  - first:
+      213: -7801410939370300508
+    second: boss_crab 1_748
+  - first:
+      213: 3074174082753508742
+    second: boss_crab 1_749
+  - first:
+      213: -2603570769978583448
+    second: boss_crab 1_750
+  - first:
+      213: 7060786511732402989
+    second: boss_crab 1_751
+  - first:
+      213: -6995994664937972738
+    second: boss_crab 1_752
+  - first:
+      213: -4986931643092264898
+    second: boss_crab 1_753
+  - first:
+      213: 5142800067830141491
+    second: boss_crab 1_754
+  - first:
+      213: -5775889967780629747
+    second: boss_crab 1_755
+  - first:
+      213: 1484379528333611361
+    second: boss_crab 1_756
+  - first:
+      213: 7660643586859389931
+    second: boss_crab 1_757
+  - first:
+      213: 330832454691273754
+    second: boss_crab 1_758
+  - first:
+      213: 7756692857875570194
+    second: boss_crab 1_759
+  - first:
+      213: -3371131939259024798
+    second: boss_crab 1_760
+  - first:
+      213: 7587911156562523884
+    second: boss_crab 1_761
+  - first:
+      213: -5842750872308605095
+    second: boss_crab 1_762
+  - first:
+      213: -2190332405001953310
+    second: boss_crab 1_763
+  - first:
+      213: 8355011089437853897
+    second: boss_crab 1_764
+  - first:
+      213: 2215014832636155721
+    second: boss_crab 1_765
+  - first:
+      213: -19463305339973977
+    second: boss_crab 1_766
+  - first:
+      213: 70255624314312464
+    second: boss_crab 1_767
+  - first:
+      213: -8296430275245190179
+    second: boss_crab 1_768
+  - first:
+      213: 2989309168008739006
+    second: boss_crab 1_769
+  - first:
+      213: -670936023253753184
+    second: boss_crab 1_770
+  - first:
+      213: -1783449544401359048
+    second: boss_crab 1_771
+  - first:
+      213: -6743309148088453594
+    second: boss_crab 1_772
+  - first:
+      213: -3434772427734246622
+    second: boss_crab 1_773
+  - first:
+      213: -7727825330449472239
+    second: boss_crab 1_774
+  - first:
+      213: -5750347395212747740
+    second: boss_crab 1_775
+  - first:
+      213: -291181533440975788
+    second: boss_crab 1_776
+  - first:
+      213: -4389369426943645683
+    second: boss_crab 1_777
+  - first:
+      213: -179330053853292906
+    second: boss_crab 1_778
+  - first:
+      213: -8595129865125001595
+    second: boss_crab 1_779
+  - first:
+      213: -3342022695408453587
+    second: boss_crab 1_780
+  - first:
+      213: 1051254925517735495
+    second: boss_crab 1_781
+  - first:
+      213: -6839471936668552285
+    second: boss_crab 1_782
+  - first:
+      213: 2556064845852345768
+    second: boss_crab 1_783
+  - first:
+      213: -8911696001728654811
+    second: boss_crab 1_784
+  - first:
+      213: 4869400179016299998
+    second: boss_crab 1_785
+  - first:
+      213: 5718235231798229596
+    second: boss_crab 1_786
+  - first:
+      213: -4667555759948793566
+    second: boss_crab 1_787
+  - first:
+      213: -2524111536916569725
+    second: boss_crab 1_788
+  - first:
+      213: 8146887248831024650
+    second: boss_crab 1_789
+  - first:
+      213: 3352580083065360362
+    second: boss_crab 1_790
+  - first:
+      213: 3075786308427553896
+    second: boss_crab 1_791
+  - first:
+      213: -3315303369548176728
+    second: boss_crab 1_792
+  - first:
+      213: 6154747070087139863
+    second: boss_crab 1_793
+  - first:
+      213: -5521674199278379424
+    second: boss_crab 1_794
+  - first:
+      213: 5060634169598419210
+    second: boss_crab 1_795
+  - first:
+      213: -4604873941930709945
+    second: boss_crab 1_796
+  - first:
+      213: -7018898057064963895
+    second: boss_crab 1_797
+  - first:
+      213: -8833834623714997627
+    second: boss_crab 1_798
+  - first:
+      213: -6465214425896625343
+    second: boss_crab 1_799
+  - first:
+      213: -3865334535380249136
+    second: boss_crab 1_800
+  - first:
+      213: -9139921329908332302
+    second: boss_crab 1_801
+  - first:
+      213: 7682926208185112335
+    second: boss_crab 1_802
+  - first:
+      213: -1757176173992057940
+    second: boss_crab 1_803
+  - first:
+      213: -2133628592874609433
+    second: boss_crab 1_804
+  - first:
+      213: -5311476841032743963
+    second: boss_crab 1_805
+  - first:
+      213: 3462682255324893090
+    second: boss_crab 1_806
+  - first:
+      213: 4619806491908611876
+    second: boss_crab 1_807
+  - first:
+      213: 1323230603715968444
+    second: boss_crab 1_808
+  - first:
+      213: -6002842773023565521
+    second: boss_crab 1_809
+  - first:
+      213: 1841647528925298454
+    second: boss_crab 1_810
+  - first:
+      213: 8735515863679950616
+    second: boss_crab 1_811
+  - first:
+      213: 7626795136260437611
+    second: boss_crab 1_812
+  - first:
+      213: -1300540757986436314
+    second: boss_crab 1_813
+  - first:
+      213: -5642176516802875700
+    second: boss_crab 1_814
+  - first:
+      213: -1810646927844198980
+    second: boss_crab 1_815
+  - first:
+      213: 4074878211134410105
+    second: boss_crab 1_816
+  - first:
+      213: -3425489786254170556
+    second: boss_crab 1_817
+  - first:
+      213: 3316092768935862402
+    second: boss_crab 1_818
+  - first:
+      213: -220552416069331484
+    second: boss_crab 1_819
+  - first:
+      213: -6909242895150124721
+    second: boss_crab 1_820
+  - first:
+      213: 1406147109472435155
+    second: boss_crab 1_821
+  - first:
+      213: 588628402979979633
+    second: boss_crab 1_822
+  - first:
+      213: 1567567606065617561
+    second: boss_crab 1_823
+  - first:
+      213: 8651250852321067162
+    second: boss_crab 1_824
+  - first:
+      213: -5997844472858586199
+    second: boss_crab 1_825
+  - first:
+      213: -4886627464948702201
+    second: boss_crab 1_826
+  - first:
+      213: 7662287038997536880
+    second: boss_crab 1_827
+  - first:
+      213: 4271904816070381231
+    second: boss_crab 1_828
+  - first:
+      213: 2215388989817753848
+    second: boss_crab 1_829
+  - first:
+      213: 5637759801397799984
+    second: boss_crab 1_830
+  - first:
+      213: -514909470774752482
+    second: boss_crab 1_831
+  - first:
+      213: -4915388055738652816
+    second: boss_crab 1_832
+  - first:
+      213: 3719243448740429049
+    second: boss_crab 1_833
+  - first:
+      213: -3013569678234911544
+    second: boss_crab 1_834
+  - first:
+      213: 6655466065944490649
+    second: boss_crab 1_835
+  - first:
+      213: -3752724436593029963
+    second: boss_crab 1_836
+  - first:
+      213: 3814086444244906202
+    second: boss_crab 1_837
+  - first:
+      213: 5057219668500147210
+    second: boss_crab 1_838
+  - first:
+      213: -785598669981356473
+    second: boss_crab 1_839
+  - first:
+      213: 4404095447632552709
+    second: boss_crab 1_840
+  - first:
+      213: -1099154853885294818
+    second: boss_crab 1_841
+  - first:
+      213: 4247850134525870487
+    second: boss_crab 1_842
+  - first:
+      213: 5147719858466151412
+    second: boss_crab 1_843
+  - first:
+      213: -2633091871722594526
+    second: boss_crab 1_844
+  - first:
+      213: 5325258579273833613
+    second: boss_crab 1_845
+  - first:
+      213: 9046497012158568735
+    second: boss_crab 1_846
+  - first:
+      213: -5477574140001668976
+    second: boss_crab 1_847
+  - first:
+      213: -6455677101272537772
+    second: boss_crab 1_848
+  - first:
+      213: 603929614582834243
+    second: boss_crab 1_849
+  - first:
+      213: 8514414288677009996
+    second: boss_crab 1_850
+  - first:
+      213: 3457233489770847264
+    second: boss_crab 1_851
+  - first:
+      213: -1647546647824177950
+    second: boss_crab 1_852
+  - first:
+      213: -7139781477590631413
+    second: boss_crab 1_853
+  - first:
+      213: -7647389290461193842
+    second: boss_crab 1_854
+  - first:
+      213: 5057488950282793410
+    second: boss_crab 1_855
+  - first:
+      213: 6496355249628160988
+    second: boss_crab 1_856
+  - first:
+      213: -3078154665507402458
+    second: boss_crab 1_857
+  - first:
+      213: -8898140516448622768
+    second: boss_crab 1_858
+  - first:
+      213: 8443022547002239513
+    second: boss_crab 1_859
+  - first:
+      213: -4528998418720438044
+    second: boss_crab 1_860
+  - first:
+      213: 3817378407907764402
+    second: boss_crab 1_861
+  - first:
+      213: 1860391912690894316
+    second: boss_crab 1_862
+  - first:
+      213: -452335913895544549
+    second: boss_crab 1_863
+  - first:
+      213: -4532130336660285355
+    second: boss_crab 1_864
+  - first:
+      213: -7940631527042908391
+    second: boss_crab 1_865
+  - first:
+      213: -4089193287774148072
+    second: boss_crab 1_866
+  - first:
+      213: 6460908412672610838
+    second: boss_crab 1_867
+  - first:
+      213: 3686259328466012567
+    second: boss_crab 1_868
+  - first:
+      213: 286972606758295410
+    second: boss_crab 1_869
+  - first:
+      213: 3978032149956303441
+    second: boss_crab 1_870
+  - first:
+      213: 1973255179425900341
+    second: boss_crab 1_871
+  - first:
+      213: 1995062857313233446
+    second: boss_crab 1_872
+  - first:
+      213: 6108445838583282196
+    second: boss_crab 1_873
+  - first:
+      213: 5976249144278703938
+    second: boss_crab 1_874
+  - first:
+      213: 4259387078046880210
+    second: boss_crab 1_875
+  - first:
+      213: 42642969172525394
+    second: boss_crab 1_876
+  - first:
+      213: 5699790237398532777
+    second: boss_crab 1_877
+  - first:
+      213: -1006235142362795947
+    second: boss_crab 1_878
+  - first:
+      213: -3674962491727342002
+    second: boss_crab 1_879
+  - first:
+      213: -2372654114641128448
+    second: boss_crab 1_880
+  - first:
+      213: -7736485027746598539
+    second: boss_crab 1_881
+  - first:
+      213: -3886990309756916770
+    second: boss_crab 1_882
+  - first:
+      213: -8396396905628523109
+    second: boss_crab 1_883
+  - first:
+      213: 2921904117395813528
+    second: boss_crab 1_884
+  - first:
+      213: 2174192641229591312
+    second: boss_crab 1_885
+  - first:
+      213: -3760019397951650321
+    second: boss_crab 1_886
+  - first:
+      213: 6059259171753546357
+    second: boss_crab 1_887
+  - first:
+      213: -5113768342576145472
+    second: boss_crab 1_888
+  - first:
+      213: -4536502223332104325
+    second: boss_crab 1_889
+  - first:
+      213: 8030083231432689230
+    second: boss_crab 1_890
+  - first:
+      213: 3517906771608707351
+    second: boss_crab 1_891
+  - first:
+      213: -5286195124586111692
+    second: boss_crab 1_892
+  - first:
+      213: -4549905865508680557
+    second: boss_crab 1_893
+  - first:
+      213: 1781865990542718539
+    second: boss_crab 1_894
+  - first:
+      213: 3622918804684264388
+    second: boss_crab 1_895
+  - first:
+      213: -64848960503369870
+    second: boss_crab 1_896
+  - first:
+      213: 7746448044929257698
+    second: boss_crab 1_897
+  - first:
+      213: -8696118154799743745
+    second: boss_crab 1_898
+  - first:
+      213: -401388479091504694
+    second: boss_crab 1_899
+  - first:
+      213: -4530054022856709740
+    second: boss_crab 1_900
+  - first:
+      213: 7098896270740910434
+    second: boss_crab 1_901
+  - first:
+      213: -2173377153330323003
+    second: boss_crab 1_902
+  - first:
+      213: -3806430322528619932
+    second: boss_crab 1_903
+  - first:
+      213: 1566479376537518921
+    second: boss_crab 1_904
+  - first:
+      213: -2161203690519115124
+    second: boss_crab 1_905
+  - first:
+      213: -8702377976538871014
+    second: boss_crab 1_906
+  - first:
+      213: 6991007347072200455
+    second: boss_crab 1_907
+  - first:
+      213: -6288776372253001656
+    second: boss_crab 1_908
+  - first:
+      213: -5050512084471739789
+    second: boss_crab 1_909
+  - first:
+      213: 3250565657720320908
+    second: boss_crab 1_910
+  - first:
+      213: 1813268296987424023
+    second: boss_crab 1_911
+  - first:
+      213: -7663847148666263068
+    second: boss_crab 1_912
+  - first:
+      213: -6656812877220753289
+    second: boss_crab 1_913
+  - first:
+      213: 5355798689723377379
+    second: boss_crab 1_914
+  - first:
+      213: -8349518833095033501
+    second: boss_crab 1_915
+  - first:
+      213: -2329474844798744386
+    second: boss_crab 1_916
+  - first:
+      213: -6601337947125267059
+    second: boss_crab 1_917
+  - first:
+      213: 7294951522725084713
+    second: boss_crab 1_918
+  - first:
+      213: -487936895826868571
+    second: boss_crab 1_919
+  - first:
+      213: 8573346486082514679
+    second: boss_crab 1_920
+  - first:
+      213: -667766722088624079
+    second: boss_crab 1_921
+  - first:
+      213: 78691333249265991
+    second: boss_crab 1_922
+  - first:
+      213: 3212379978585060358
+    second: boss_crab 1_923
+  - first:
+      213: 7506749710590993167
+    second: boss_crab 1_924
+  - first:
+      213: -1078458316304384538
+    second: boss_crab 1_925
+  - first:
+      213: -4745589603315208929
+    second: boss_crab 1_926
+  - first:
+      213: 7020192754357711051
+    second: boss_crab 1_927
+  - first:
+      213: -8959303614735057238
+    second: boss_crab 1_928
+  - first:
+      213: 7847806772735849936
+    second: boss_crab 1_929
+  - first:
+      213: -2479892112461169787
+    second: boss_crab 1_930
+  - first:
+      213: -2066638883620309082
+    second: boss_crab 1_931
+  - first:
+      213: -3175860743697557358
+    second: boss_crab 1_932
+  - first:
+      213: 1985914483723799628
+    second: boss_crab 1_933
+  - first:
+      213: 3188647907901023550
+    second: boss_crab 1_934
+  - first:
+      213: -8950811773048990286
+    second: boss_crab 1_935
+  - first:
+      213: 6235506524966425822
+    second: boss_crab 1_936
+  - first:
+      213: 7921798693002338488
+    second: boss_crab 1_937
+  - first:
+      213: -3316794725333117091
+    second: boss_crab 1_938
+  - first:
+      213: -2006638145776502029
+    second: boss_crab 1_939
+  - first:
+      213: 5536483627947791630
+    second: boss_crab 1_940
+  - first:
+      213: 459320523254115556
+    second: boss_crab 1_941
+  - first:
+      213: -1373794021195354045
+    second: boss_crab 1_942
+  - first:
+      213: 3741773737461692280
+    second: boss_crab 1_943
+  - first:
+      213: 213731229690369675
+    second: boss_crab 1_944
+  - first:
+      213: 354925231504972943
+    second: boss_crab 1_945
+  - first:
+      213: 4511091347252309119
+    second: boss_crab 1_946
+  - first:
+      213: -8177160066213452558
+    second: boss_crab 1_947
+  - first:
+      213: 5925380002288249796
+    second: boss_crab 1_948
+  - first:
+      213: -2040792097928589642
+    second: boss_crab 1_949
+  - first:
+      213: -6990918493031897531
+    second: boss_crab 1_950
+  - first:
+      213: -8916575179725980047
+    second: boss_crab 1_951
+  - first:
+      213: -4360839580740526245
+    second: boss_crab 1_952
+  - first:
+      213: 8225640653882567009
+    second: boss_crab 1_953
+  - first:
+      213: 75639758815294534
+    second: boss_crab 1_954
+  - first:
+      213: 2909804177547016357
+    second: boss_crab 1_955
+  - first:
+      213: 8465369293456208946
+    second: boss_crab 1_956
+  - first:
+      213: -6893664841139291274
+    second: boss_crab 1_957
+  - first:
+      213: -6388567665585470468
+    second: boss_crab 1_958
+  - first:
+      213: 840745990031819082
+    second: boss_crab 1_959
+  - first:
+      213: -9133060974454947786
+    second: boss_crab 1_960
+  - first:
+      213: -8789379281069857644
+    second: boss_crab 1_961
+  - first:
+      213: -9041863014841742140
+    second: boss_crab 1_962
+  - first:
+      213: 84962318882078983
+    second: boss_crab 1_963
+  - first:
+      213: 6368508129824184545
+    second: boss_crab 1_964
+  - first:
+      213: 4704161326186680636
+    second: boss_crab 1_965
+  - first:
+      213: -1376497316915765777
+    second: boss_crab 1_966
+  - first:
+      213: -1804518004560213741
+    second: boss_crab 1_967
+  - first:
+      213: 8497897688408022272
+    second: boss_crab 1_968
+  - first:
+      213: -935130384097433260
+    second: boss_crab 1_969
+  - first:
+      213: 7060021868506141004
+    second: boss_crab 1_970
+  - first:
+      213: 9117532775310883591
+    second: boss_crab 1_971
+  - first:
+      213: -3661617792927015631
+    second: boss_crab 1_972
+  - first:
+      213: 446614841814230779
+    second: boss_crab 1_973
+  - first:
+      213: 999632539944969945
+    second: boss_crab 1_974
+  - first:
+      213: 921516469581942524
+    second: boss_crab 1_975
+  - first:
+      213: 1418275039294837240
+    second: boss_crab 1_976
+  - first:
+      213: 150101388890015444
+    second: boss_crab 1_977
+  - first:
+      213: 2954560237754405369
+    second: boss_crab 1_978
+  - first:
+      213: 4517947625389362030
+    second: boss_crab 1_979
+  - first:
+      213: -1930990137824872194
+    second: boss_crab 1_980
+  - first:
+      213: -1724426115039550600
+    second: boss_crab 1_981
+  - first:
+      213: -2779093385943629917
+    second: boss_crab 1_982
+  - first:
+      213: 4564571544155786955
+    second: boss_crab 1_983
+  - first:
+      213: -3547487816377641698
+    second: boss_crab 1_984
+  - first:
+      213: 3313446208544796294
+    second: boss_crab 1_985
+  - first:
+      213: -4900200673447758437
+    second: boss_crab 1_986
+  - first:
+      213: 5073024645477282450
+    second: boss_crab 1_987
+  - first:
+      213: 2088810190293045110
+    second: boss_crab 1_988
+  - first:
+      213: -3894212091940720535
+    second: boss_crab 1_989
+  - first:
+      213: -1007109776654205616
+    second: boss_crab 1_990
+  - first:
+      213: 7231650542358526829
+    second: boss_crab 1_991
+  - first:
+      213: 6924746075457296266
+    second: boss_crab 1_992
+  - first:
+      213: 7241219944227079409
+    second: boss_crab 1_993
+  - first:
+      213: -2493578501682729475
+    second: boss_crab 1_994
+  - first:
+      213: -3458501500423692314
+    second: boss_crab 1_995
+  - first:
+      213: 2524940134332497571
+    second: boss_crab 1_996
+  - first:
+      213: -6667219148289590559
+    second: boss_crab 1_997
+  - first:
+      213: 5172398113482884902
+    second: boss_crab 1_998
+  - first:
+      213: -7617256712124767430
+    second: boss_crab 1_999
+  - first:
+      213: -8358105144297130898
+    second: boss_crab 1_1000
+  - first:
+      213: 2924303637396242062
+    second: boss_crab 1_1001
+  - first:
+      213: -1538786111804843378
+    second: boss_crab 1_1002
+  - first:
+      213: -1252584775020710734
+    second: boss_crab 1_1003
+  - first:
+      213: 2584283901913360938
+    second: boss_crab 1_1004
+  - first:
+      213: -3286346841800384661
+    second: boss_crab 1_1005
+  - first:
+      213: -5172339332139725138
+    second: boss_crab 1_1006
+  - first:
+      213: 2055115139486173548
+    second: boss_crab 1_1007
+  - first:
+      213: -7793906240994661192
+    second: boss_crab 1_1008
+  - first:
+      213: -647925158170398129
+    second: boss_crab 1_1009
+  - first:
+      213: -1984531152515612395
+    second: boss_crab 1_1010
+  - first:
+      213: -2001973224472616734
+    second: boss_crab 1_1011
+  - first:
+      213: -1171624988526498500
+    second: boss_crab 1_1012
+  - first:
+      213: -3617769855674700777
+    second: boss_crab 1_1013
+  - first:
+      213: -8557767281570450482
+    second: boss_crab 1_1014
+  - first:
+      213: -3767683620742444048
+    second: boss_crab 1_1015
+  - first:
+      213: 405791820779607511
+    second: boss_crab 1_1016
+  - first:
+      213: -5926085626717072960
+    second: boss_crab 1_1017
+  - first:
+      213: 4755693652632005927
+    second: boss_crab 1_1018
+  - first:
+      213: -1476311132443786117
+    second: boss_crab 1_1019
+  - first:
+      213: 5332590844174609216
+    second: boss_crab 1_1020
+  - first:
+      213: -6472649832141944855
+    second: boss_crab 1_1021
+  - first:
+      213: -1178428407285052559
+    second: boss_crab 1_1022
+  - first:
+      213: -1711495332125555161
+    second: boss_crab 1_1
+  - first:
+      213: -4334013524787699290
+    second: boss_crab 1_2
+  - first:
+      213: -3385537448800878546
+    second: boss_crab 1_3
+  - first:
+      213: 1892279302245142355
+    second: boss_crab 1_4
+  - first:
+      213: -3591216674734992769
+    second: boss_crab 1_5
+  - first:
+      213: 1921600975405220642
+    second: boss_crab 1_6
+  - first:
+      213: 1083936526248312954
+    second: boss_crab 1_7
+  - first:
+      213: -8178781169309950256
+    second: boss_crab 1_8
+  - first:
+      213: 6580514469668243427
+    second: boss_crab 1_9
+  - first:
+      213: 372010289195891904
+    second: boss_crab 1_10
+  - first:
+      213: -4349894348240435139
+    second: boss_crab 1_11
+  - first:
+      213: -3186781554324557521
+    second: boss_crab 1_12
+  - first:
+      213: 4585565058984308262
+    second: boss_crab 1_13
+  - first:
+      213: -5220331248092321631
+    second: boss_crab 1_14
+  - first:
+      213: -92304114012380707
+    second: boss_crab 1_15
+  - first:
+      213: 2128243808078768696
+    second: boss_crab 1_16
+  - first:
+      213: 302360643631631860
+    second: boss_crab 1_17
+  - first:
+      213: 8666660675610460005
+    second: boss_crab 1_18
+  - first:
+      213: 570694934923670035
+    second: boss_crab 1_19
+  - first:
+      213: -7522520861618193470
+    second: boss_crab 1_20
+  - first:
+      213: 7637225067360092781
+    second: boss_crab 1_21
+  - first:
+      213: 3870498190902240520
+    second: boss_crab 1_22
+  - first:
+      213: -7178812990993141410
+    second: boss_crab 1_23
+  - first:
+      213: -8299986977254630645
+    second: boss_crab 1_24
+  - first:
+      213: 8159600290202053489
+    second: boss_crab 1_25
+  - first:
+      213: 4095904498514806619
+    second: boss_crab 1_26
+  - first:
+      213: 4489463474674368927
+    second: boss_crab 1_27
+  - first:
+      213: 8343652306615476071
+    second: boss_crab 1_28
+  - first:
+      213: -713072880717513212
+    second: boss_crab 1_29
+  - first:
+      213: -3789131534672335179
+    second: boss_crab 1_30
+  - first:
+      213: 8760997353486904158
+    second: boss_crab 1_31
+  - first:
+      213: -4464795094547785226
+    second: boss_crab 1_32
+  - first:
+      213: 7513382938011438459
+    second: boss_crab 1_33
+  - first:
+      213: 3809295341255465190
+    second: boss_crab 1_34
+  - first:
+      213: 9020344797081880345
+    second: boss_crab 1_35
+  - first:
+      213: 2760082136277585170
+    second: boss_crab 1_36
+  - first:
+      213: -7371415805242106782
+    second: boss_crab 1_37
+  - first:
+      213: -3945841167510842628
+    second: boss_crab 1_38
+  - first:
+      213: 6939754558290146999
+    second: boss_crab 1_39
+  - first:
+      213: 5996862110217851410
+    second: boss_crab 1_40
+  - first:
+      213: -5013832620354692674
+    second: boss_crab 1_41
+  - first:
+      213: 8767140413378705205
+    second: boss_crab 1_42
+  - first:
+      213: -8741766873234093811
+    second: boss_crab 1_43
+  - first:
+      213: -6570844411042194531
+    second: boss_crab 1_44
+  - first:
+      213: 6512650164652110870
+    second: boss_crab 1_45
+  - first:
+      213: -8916531580083148008
+    second: boss_crab 1_46
+  - first:
+      213: 2686286590031731671
+    second: boss_crab 1_47
+  - first:
+      213: -3458935297213183775
+    second: boss_crab 1_48
+  - first:
+      213: 2930037362694222727
+    second: boss_crab 1_49
+  - first:
+      213: -6529528372428126595
+    second: boss_crab 1_50
+  - first:
+      213: -7965634067221533494
+    second: boss_crab 1_51
+  - first:
+      213: -6275323934078577508
+    second: boss_crab 1_52
+  - first:
+      213: -5858739337270229417
+    second: boss_crab 1_53
+  - first:
+      213: 8746701255078292727
+    second: boss_crab 1_54
+  - first:
+      213: -4107787219118957095
+    second: boss_crab 1_55
+  - first:
+      213: 5159037174566457142
+    second: boss_crab 1_56
+  - first:
+      213: -3583828423095341323
+    second: boss_crab 1_57
+  - first:
+      213: 1467791332053371288
+    second: boss_crab 1_58
+  - first:
+      213: 8751995063848358406
+    second: boss_crab 1_59
+  - first:
+      213: -7264382700560236041
+    second: boss_crab 1_60
+  - first:
+      213: 6521224503719738391
+    second: boss_crab 1_61
+  - first:
+      213: 5056616680953315297
+    second: boss_crab 1_62
+  - first:
+      213: 8291459803037667358
+    second: boss_crab 1_63
+  - first:
+      213: 7351481039886105296
+    second: boss_crab 1_64
+  - first:
+      213: -5874163515091444795
+    second: boss_crab 1_65
+  - first:
+      213: -2391484824311478326
+    second: boss_crab 1_66
+  - first:
+      213: 2299512713145268438
+    second: boss_crab 1_67
+  - first:
+      213: -4598938112429668549
+    second: boss_crab 1_68
+  - first:
+      213: 588249398369478909
+    second: boss_crab 1_69
+  - first:
+      213: -5880091867640432474
+    second: boss_crab 1_70
+  - first:
+      213: -6641895804183587706
+    second: boss_crab 1_71
+  - first:
+      213: 4552357920645073762
+    second: boss_crab 1_72
+  - first:
+      213: -5025519245271054904
+    second: boss_crab 1_73
+  - first:
+      213: 3291603830355480310
+    second: boss_crab 1_74
+  - first:
+      213: -6536450706164729135
+    second: boss_crab 1_75
+  - first:
+      213: 447241116487854620
+    second: boss_crab 1_76
+  - first:
+      213: 205299708410736073
+    second: boss_crab 1_77
+  - first:
+      213: 5869095233337458478
+    second: boss_crab 1_78
+  - first:
+      213: 235369185969251058
+    second: boss_crab 1_79
+  - first:
+      213: 9137572994631508032
+    second: boss_crab 1_80
+  - first:
+      213: -6412985192390451552
+    second: boss_crab 1_81
+  - first:
+      213: -1623406878464923352
+    second: boss_crab 1_82
+  - first:
+      213: -4729841988945649722
+    second: boss_crab 1_83
+  - first:
+      213: -4746698689530405478
+    second: boss_crab 1_84
+  - first:
+      213: 2301026364784711495
+    second: boss_crab 1_85
+  - first:
+      213: -3188653159228710625
+    second: boss_crab 1_86
+  - first:
+      213: -3182147523378775259
+    second: boss_crab 1_87
+  - first:
+      213: 3016471780223863591
+    second: boss_crab 1_88
+  - first:
+      213: 5862024717911461149
+    second: boss_crab 1_89
+  - first:
+      213: -2041944478193726527
+    second: boss_crab 1_90
+  - first:
+      213: -9188923711688221853
+    second: boss_crab 1_91
+  - first:
+      213: -3248443400496209256
+    second: boss_crab 1_92
+  - first:
+      213: 2816341845439951898
+    second: boss_crab 1_93
+  - first:
+      213: -2605746722711347666
+    second: boss_crab 1_94
+  - first:
+      213: -4077462948739194959
+    second: boss_crab 1_95
+  - first:
+      213: -6224776594296667584
+    second: boss_crab 1_96
+  - first:
+      213: 9065522506579054754
+    second: boss_crab 1_97
+  - first:
+      213: -6709988333671379506
+    second: boss_crab 1_98
+  - first:
+      213: 4942031512191368125
+    second: boss_crab 1_99
+  - first:
+      213: 8128824122582438195
+    second: boss_crab 1_100
+  - first:
+      213: 1351376563661546240
+    second: boss_crab 1_101
+  - first:
+      213: 7605768302032905399
+    second: boss_crab 1_102
+  - first:
+      213: -2495329282621113866
+    second: boss_crab 1_103
+  - first:
+      213: 3573665986068597795
+    second: boss_crab 1_104
+  - first:
+      213: 5420644530224351529
+    second: boss_crab 1_105
+  - first:
+      213: -3944051501830337418
+    second: boss_crab 1_106
+  - first:
+      213: -453999053078616008
+    second: boss_crab 1_107
+  - first:
+      213: 2501815864584625491
+    second: boss_crab 1_108
+  - first:
+      213: 4026011577034902726
+    second: boss_crab 1_109
+  - first:
+      213: -6319353995573461812
+    second: boss_crab 1_110
+  - first:
+      213: -9073774185825825334
+    second: boss_crab 1_111
+  - first:
+      213: -6518966820370318254
+    second: boss_crab 1_112
+  - first:
+      213: 2479393925213258589
+    second: boss_crab 1_113
+  - first:
+      213: -2164759759709889810
+    second: boss_crab 1_114
+  - first:
+      213: -5896506566713411328
+    second: boss_crab 1_115
+  - first:
+      213: 6528795760381895440
+    second: boss_crab 1_116
+  - first:
+      213: 9135621382145294743
+    second: boss_crab 1_117
+  - first:
+      213: 5366323307897733094
+    second: boss_crab 1_118
+  - first:
+      213: 2171932390312200414
+    second: boss_crab 1_119
+  - first:
+      213: 6238753630873242283
+    second: boss_crab 1_120
+  - first:
+      213: 7661491715077868711
+    second: boss_crab 1_121
+  - first:
+      213: -6591831131773921979
+    second: boss_crab 1_122
+  - first:
+      213: -3367905685649675887
+    second: boss_crab 1_123
+  - first:
+      213: 5429775643513604029
+    second: boss_crab 1_124
+  - first:
+      213: 5299352221521881613
+    second: boss_crab 1_125
+  - first:
+      213: -5113408950013672059
+    second: boss_crab 1_126
+  - first:
+      213: -3120137511763839011
+    second: boss_crab 1_127
+  - first:
+      213: -5330918204980516389
+    second: boss_crab 1_128
+  - first:
+      213: -7057570335135992177
+    second: boss_crab 1_129
+  - first:
+      213: 2016948130927868333
+    second: boss_crab 1_130
+  - first:
+      213: 4451496626455275305
+    second: boss_crab 1_131
+  - first:
+      213: -2483962472696755880
+    second: boss_crab 1_132
+  - first:
+      213: -5765602554315078949
+    second: boss_crab 1_133
+  - first:
+      213: 7127266038191548265
+    second: boss_crab 1_134
+  - first:
+      213: 1717162894130429443
+    second: boss_crab 1_135
+  - first:
+      213: -5511147914448732299
+    second: boss_crab 1_136
+  - first:
+      213: -6686370463426125979
+    second: boss_crab 1_137
+  - first:
+      213: 569035141564760965
+    second: boss_crab 1_138
+  - first:
+      213: -5675717986830978720
+    second: boss_crab 1_139
+  - first:
+      213: 4913865205527796552
+    second: boss_crab 1_140
+  - first:
+      213: -5186047927364677843
+    second: boss_crab 1_141
+  - first:
+      213: 1934752051269374911
+    second: boss_crab 1_142
+  - first:
+      213: -7742090606301048589
+    second: boss_crab 1_143
+  - first:
+      213: -3608568981657524334
+    second: boss_crab 1_144
+  - first:
+      213: 1818244015508312668
+    second: boss_crab 1_145
+  - first:
+      213: -6816103773179983631
+    second: boss_crab 1_146
+  - first:
+      213: -1037600501142455261
+    second: boss_crab 1_147
+  - first:
+      213: 5236862578781293675
+    second: boss_crab 1_148
+  - first:
+      213: 7209977761120047515
+    second: boss_crab 1_149
+  - first:
+      213: -6509901490590688358
+    second: boss_crab 1_150
+  - first:
+      213: -4063755287555106557
+    second: boss_crab 1_151
+  - first:
+      213: -3104451336217593214
+    second: boss_crab 1_152
+  - first:
+      213: 3584050184670819907
+    second: boss_crab 1_153
+  - first:
+      213: -8290452943510509373
+    second: boss_crab 1_154
+  - first:
+      213: -5568150801150063396
+    second: boss_crab 1_155
+  - first:
+      213: 7795285417215802051
+    second: boss_crab 1_156
+  - first:
+      213: -3156552115705105383
+    second: boss_crab 1_157
+  - first:
+      213: -4549289507909976246
+    second: boss_crab 1_158
+  - first:
+      213: -3642579078371875348
+    second: boss_crab 1_159
+  - first:
+      213: -8101371066428206210
+    second: boss_crab 1_160
+  - first:
+      213: 8223877963308131732
+    second: boss_crab 1_161
+  - first:
+      213: -6986065797259946461
+    second: boss_crab 1_162
+  - first:
+      213: -5108092207265221580
+    second: boss_crab 1_163
+  - first:
+      213: 4523449717504909724
+    second: boss_crab 1_164
+  - first:
+      213: 6722398862588701504
+    second: boss_crab 1_165
+  - first:
+      213: -5421673237258390312
+    second: boss_crab 1_166
+  - first:
+      213: 6881827024391358782
+    second: boss_crab 1_167
+  - first:
+      213: 4133782153031093229
+    second: boss_crab 1_168
+  - first:
+      213: -1910989360002548686
+    second: boss_crab 1_169
+  - first:
+      213: -4958327945049879078
+    second: boss_crab 1_170
+  - first:
+      213: -4643763130643540334
+    second: boss_crab 1_171
+  - first:
+      213: -1068629345393015400
+    second: boss_crab 1_172
+  - first:
+      213: -9126357354654157868
+    second: boss_crab 1_173
+  - first:
+      213: 3186919964860355030
+    second: boss_crab 1_174
+  - first:
+      213: 5181225436557932945
+    second: boss_crab 1_175
+  - first:
+      213: -179232011698868299
+    second: boss_crab 1_176
+  - first:
+      213: 4192923959963701640
+    second: boss_crab 1_177
+  - first:
+      213: 6316179654450164316
+    second: boss_crab 1_178
+  - first:
+      213: -1853915222921379949
+    second: boss_crab 1_179
+  - first:
+      213: 4672554075618182338
+    second: boss_crab 1_180
+  - first:
+      213: 4282065676916156369
+    second: boss_crab 1_181
+  - first:
+      213: -8658289983843942714
+    second: boss_crab 1_182
+  - first:
+      213: 6835791281654361141
+    second: boss_crab 1_183
+  - first:
+      213: 8940062713776097166
+    second: boss_crab 1_184
+  - first:
+      213: -5598037616221557669
+    second: boss_crab 1_185
+  - first:
+      213: 8591818950982332235
+    second: boss_crab 1_186
+  - first:
+      213: 7953198045773533383
+    second: boss_crab 1_187
+  - first:
+      213: -1717401876755606071
+    second: boss_crab 1_188
+  - first:
+      213: 4716603023137140836
+    second: boss_crab 1_189
+  - first:
+      213: -3616666864451372344
+    second: boss_crab 1_190
+  - first:
+      213: -4739027269927651957
+    second: boss_crab 1_191
+  - first:
+      213: -4780683330321719798
+    second: boss_crab 1_192
+  - first:
+      213: -4659978923029707760
+    second: boss_crab 1_193
+  - first:
+      213: -3166664837848473567
+    second: boss_crab 1_194
+  - first:
+      213: -2136453788303294307
+    second: boss_crab 1_195
+  - first:
+      213: -8059649401824605400
+    second: boss_crab 1_196
+  - first:
+      213: 8898382315459956614
+    second: boss_crab 1_197
+  - first:
+      213: -2000149581649759826
+    second: boss_crab 1_198
+  - first:
+      213: 8587754169655809754
+    second: boss_crab 1_199
+  - first:
+      213: 9188689386583474018
+    second: boss_crab 1_200
+  - first:
+      213: -2368595626937575030
+    second: boss_crab 1_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_crab 1_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 648.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1bbc7d4e178e4c0800000000000000
+      internalID: -4258028219991870989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 648.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726cae5301c8f38e0800000000000000
+      internalID: -1711495332125555161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 648.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a16a4b69ad7ad3c0800000000000000
+      internalID: -4334013524787699290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_3
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 648.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20017ea0a72401d0800000000000000
+      internalID: -3385537448800878546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 648.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f452aeff9b24a10800000000000000
+      internalID: 1892279302245142355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_5
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 648.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7216fe167f692ec0800000000000000
+      internalID: -3591216674734992769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2238213f7e5eaaa10800000000000000
+      internalID: 1921600975405220642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a700a16178aea0f00800000000000000
+      internalID: 1083936526248312954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de50ab0cd12f7e80800000000000000
+      internalID: -8178781169309950256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c4eb8b0fa25b50800000000000000
+      internalID: 6580514469668243427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccbf441365a92500800000000000000
+      internalID: 372010289195891904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3846a2132212a3c0800000000000000
+      internalID: -4349894348240435139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b7b58f0746c3d0800000000000000
+      internalID: -3186781554324557521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_13
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ee333302333af30800000000000000
+      internalID: 4585565058984308262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e59b6368ad87b0800000000000000
+      internalID: -5220331248092321631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_15
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 612.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd12cf8b5e118bef0800000000000000
+      internalID: -92304114012380707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aa5ffa77a098d10800000000000000
+      internalID: 2128243808078768696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdc8b54763323400800000000000000
+      internalID: 302360643631631860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fbb9e67f9264870800000000000000
+      internalID: 8666660675610460005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3127d3705048be700800000000000000
+      internalID: 570694934923670035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb38c3e123aa9790800000000000000
+      internalID: -7522520861618193470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_21
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6205b92cbfdcf960800000000000000
+      internalID: 7637225067360092781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_22
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805258c0995c6b530800000000000000
+      internalID: 3870498190902240520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_23
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51f4e2ae9bbf5c90800000000000000
+      internalID: -7178812990993141410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_24
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b9e54c1d580dc80800000000000000
+      internalID: -8299986977254630645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_25
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 576.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17beaa68b39bc3170800000000000000
+      internalID: 8159600290202053489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5746ebb07397d830800000000000000
+      internalID: 4095904498514806619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f918e087e37cd4e30800000000000000
+      internalID: 4489463474674368927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f1f29f09b9ac370800000000000000
+      internalID: 8343652306615476071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e3ed53ef7aa16f0800000000000000
+      internalID: -713072880717513212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beef94e1fc4a6bc0800000000000000
+      internalID: -3789131534672335179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_31
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b69bcdca0559970800000000000000
+      internalID: 8760997353486904158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_32
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9929a548cd902c0800000000000000
+      internalID: -4464795094547785226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_33
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d07a979f5e44860800000000000000
+      internalID: 7513382938011438459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_34
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8151c2ee55dd430800000000000000
+      internalID: 3809295341255465190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_35
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 540.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917cb951dc3be2d70800000000000000
+      internalID: 9020344797081880345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d0ab35418cd4620800000000000000
+      internalID: 2760082136277585170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c18dc616873b990800000000000000
+      internalID: -7371415805242106782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf257663d5e8d39c0800000000000000
+      internalID: -3945841167510842628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6384b9006fe4060800000000000000
+      internalID: 6939754558290146999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d8860152293350800000000000000
+      internalID: 5996862110217851410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb91e74dbc94b6ab0800000000000000
+      internalID: -5013832620354692674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_42
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b86371c32ba970800000000000000
+      internalID: 8767140413378705205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_43
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ca9b38510fa680800000000000000
+      internalID: -8741766873234093811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_44
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b187d62dbafc4a0800000000000000
+      internalID: -6570844411042194531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_45
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6147a7ab1d4916a50800000000000000
+      internalID: 6512650164652110870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_46
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b679c05cd124480800000000000000
+      internalID: -8916531580083148008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_47
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db9cbbcb6b974520800000000000000
+      internalID: 2686286590031731671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_48
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e84c846ca46fffc0800000000000000
+      internalID: -3458935297213183775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_49
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 504.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783f206157599a820800000000000000
+      internalID: 2930037362694222727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76469a4a847265a0800000000000000
+      internalID: -6529528372428126595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_51
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acca2840502647190800000000000000
+      internalID: -7965634067221533494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c945dba412299e8a0800000000000000
+      internalID: -6275323934078577508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756866a1d9391bea0800000000000000
+      internalID: -5858739337270229417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fca7611376826970800000000000000
+      internalID: 8746701255078292727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_55
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd5687c9453ef6c0800000000000000
+      internalID: -4107787219118957095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_56
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f811df9f4989740800000000000000
+      internalID: 5159037174566457142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe2471890fa34ec0800000000000000
+      internalID: -3583828423095341323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_58
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89940779074ae5410800000000000000
+      internalID: 1467791332053371288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_59
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60257a8f325557970800000000000000
+      internalID: 8751995063848358406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f14d941c6abf2b90800000000000000
+      internalID: -7264382700560236041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_61
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb9cc922b008a50800000000000000
+      internalID: 6521224503719738391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_62
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef79898416bc2640800000000000000
+      internalID: 5056616680953315297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_63
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e109d75c2ce211370800000000000000
+      internalID: 8291459803037667358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_64
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 468.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da3e635e05b50660800000000000000
+      internalID: 7351481039886105296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1a6ad767ca7ea0800000000000000
+      internalID: -5874163515091444795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac74d21193dbfced0800000000000000
+      internalID: -2391484824311478326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_67
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b48711a289ef10800000000000000
+      internalID: 2299512713145268438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37cf98272a4d20c0800000000000000
+      internalID: -4598938112429668549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_69
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8662d06b1e92800800000000000000
+      internalID: 588249398369478909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_70
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8f0a6b997b56ea0800000000000000
+      internalID: -5880091867640432474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_71
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684da74d4fe33d3a0800000000000000
+      internalID: -6641895804183587706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_72
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4c7ec8693d2f30800000000000000
+      internalID: 4552357920645073762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_73
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5cabd6fd4c14ab0800000000000000
+      internalID: -5025519245271054904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_74
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe47a97e302ead20800000000000000
+      internalID: 3291603830355480310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_75
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da333fd6bcd945a0800000000000000
+      internalID: -6536450706164729135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_76
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a25350d6be43600800000000000000
+      internalID: 447241116487854620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_77
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd20504ffe59d200800000000000000
+      internalID: 205299708410736073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_78
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7408d407337150800000000000000
+      internalID: 5869095233337458478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_79
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 432.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f225c01703344300800000000000000
+      internalID: 235369185969251058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_80
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040a636c93e2fce70800000000000000
+      internalID: 9137572994631508032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae1ab9e1ff7007a0800000000000000
+      internalID: -6412985192390451552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8292c239b008879e0800000000000000
+      internalID: -1623406878464923352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_83
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfda2555c93c5eb0800000000000000
+      internalID: -4729841988945649722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_84
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d5ab2e0b6502eb0800000000000000
+      internalID: -4746698689530405478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_85
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7471dc39943eeef10800000000000000
+      internalID: 2301026364784711495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_86
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ee3c88d0afb3d0800000000000000
+      internalID: -3188653159228710625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_87
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b7e1eefadb6d3d0800000000000000
+      internalID: -3182147523378775259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_88
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bcb372a19acd920800000000000000
+      internalID: 3016471780223863591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_89
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0caf2c681a5150800000000000000
+      internalID: 5862024717911461149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_90
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb4136d05e89a3e0800000000000000
+      internalID: -2041944478193726527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_91
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bd8a8b1926a7080800000000000000
+      internalID: -9188923711688221853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_92
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892267030f53be2d0800000000000000
+      internalID: -3248443400496209256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_93
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14348f9cf7a51720800000000000000
+      internalID: 2816341845439951898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_94
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 396.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed62a592786dbd0800000000000000
+      internalID: -2605746722711347666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_95
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf559b2d01f967c0800000000000000
+      internalID: -4077462948739194959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_96
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04208c2faa62d99a0800000000000000
+      internalID: -6224776594296667584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_97
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a014f340b43fcd70800000000000000
+      internalID: 9065522506579054754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_98
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd808c592551e2a0800000000000000
+      internalID: -6709988333671379506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_99
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbf3f0f97f959440800000000000000
+      internalID: 4942031512191368125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_100
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331172c98726fc070800000000000000
+      internalID: 8128824122582438195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_101
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a5d223dd01c210800000000000000
+      internalID: 1351376563661546240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_102
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e89e39fd1d8960800000000000000
+      internalID: 7605768302032905399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_103
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9fcbffc3fce5dd0800000000000000
+      internalID: -2495329282621113866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_104
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cc38db746389130800000000000000
+      internalID: 3573665986068597795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_105
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929cfadfa7ff93b40800000000000000
+      internalID: 5420644530224351529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_106
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c8e893e0ae349c0800000000000000
+      internalID: -3944051501830337418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_107
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838a2e0444213b9f0800000000000000
+      internalID: -453999053078616008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_108
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 360.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dd00e064c38b220800000000000000
+      internalID: 2501815864584625491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_109
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc86c6d2344fd730800000000000000
+      internalID: 4026011577034902726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_110
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf5ebb5052d48a0800000000000000
+      internalID: -6319353995573461812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_111
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd0eb1f37a731280800000000000000
+      internalID: -9073774185825825334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_112
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cf441473af785a0800000000000000
+      internalID: -6518966820370318254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_113
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53099a73a3986220800000000000000
+      internalID: 2479393925213258589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_114
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea9e6ac77a35f1e0800000000000000
+      internalID: -2164759759709889810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_115
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f943c4866b2ea0800000000000000
+      internalID: -5896506566713411328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_116
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013a3ac2721fa9a50800000000000000
+      internalID: 6528795760381895440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_117
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791cb359e3f38ce70800000000000000
+      internalID: 9135621382145294743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_118
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efb425dd92097a40800000000000000
+      internalID: 5366323307897733094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_119
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed849b86001442e10800000000000000
+      internalID: 2171932390312200414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_120
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 324.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baac0697f51849650800000000000000
+      internalID: 6238753630873242283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_121
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac80de5f16135a60800000000000000
+      internalID: 7661491715077868711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_122
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545114bb28c1584a0800000000000000
+      internalID: -6591831131773921979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_123
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19925d17f9bc241d0800000000000000
+      internalID: -3367905685649675887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_124
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db742b9fd207a5b40800000000000000
+      internalID: 5429775643513604029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_125
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a2d7fa4c41b8940800000000000000
+      internalID: 5299352221521881613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_126
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c127e6a58909b0800000000000000
+      internalID: -5113408950013672059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_127
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7f1f8d67b03b4d0800000000000000
+      internalID: -3120137511763839011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_128
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd929711326c406b0800000000000000
+      internalID: -5330918204980516389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_129
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8672ec3c297e0e90800000000000000
+      internalID: -7057570335135992177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_130
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f75a83a3adfb10800000000000000
+      internalID: 2016948130927868333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_131
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92767b2c894e6cd30800000000000000
+      internalID: 4451496626455275305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_132
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 288.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859428baa41378dd0800000000000000
+      internalID: -2483962472696755880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_133
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd207f936077cffa0800000000000000
+      internalID: -5765602554315078949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_134
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967ec1a23b229e260800000000000000
+      internalID: 7127266038191548265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_135
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3026ed8694d710800000000000000
+      internalID: 1717162894130429443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_136
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ff5aecb287483b0800000000000000
+      internalID: -5511147914448732299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_137
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f52da4d7d3533a0800000000000000
+      internalID: -6686370463426125979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_138
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838ea5427e95e700800000000000000
+      internalID: 569035141564760965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_139
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061f4adef8ccb31b0800000000000000
+      internalID: -5675717986830978720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_140
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd2a1ae5e813440800000000000000
+      internalID: 4913865205527796552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_141
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f074d03e47708b0800000000000000
+      internalID: -5186047927364677843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_142
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb39e586dbe99da10800000000000000
+      internalID: 1934752051269374911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_143
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f09988ec919e8490800000000000000
+      internalID: -7742090606301048589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_144
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2976fc451a9cbedc0800000000000000
+      internalID: -3608568981657524334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_145
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 252.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525a537c43bb3910800000000000000
+      internalID: 1818244015508312668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_146
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f848674bb55861a0800000000000000
+      internalID: -6816103773179983631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_147
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf2a677d3b991f0800000000000000
+      internalID: -1037600501142455261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_148
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c8bc1f4c21da840800000000000000
+      internalID: 5236862578781293675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_149
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d60ad29cfe0460800000000000000
+      internalID: 7209977761120047515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_150
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b5e82d51f28a5a0800000000000000
+      internalID: -6509901490590688358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_151
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309992fb814aa97c0800000000000000
+      internalID: -4063755287555106557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_152
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a734235f5cae4d0800000000000000
+      internalID: -3104451336217593214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_153
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463a7267aa1db130800000000000000
+      internalID: 3584050184670819907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_154
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8e6faf8f462fc80800000000000000
+      internalID: -8290452943510509373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_155
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc4a10954f9b2b0800000000000000
+      internalID: -5568150801150063396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_156
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca3ee729ca6e2c60800000000000000
+      internalID: 7795285417215802051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_157
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b36c239ca134d0800000000000000
+      internalID: -3156552115705105383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_158
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f3d94bb4dadd0c0800000000000000
+      internalID: -4549289507909976246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_159
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 216.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ef5f90a5f27dc0800000000000000
+      internalID: -3642579078371875348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_160
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 180.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e735bef10f5229f80800000000000000
+      internalID: -8101371066428206210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_161
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 180.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495e4278f65112270800000000000000
+      internalID: 8223877963308131732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_162
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 180.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32690d0db228c0f90800000000000000
+      internalID: -6986065797259946461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_163
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 180.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434f30a83396c19b0800000000000000
+      internalID: -5108092207265221580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_164
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 180.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91a8334d8586ce30800000000000000
+      internalID: 4523449717504909724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_165
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 180.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04be6131622ca4d50800000000000000
+      internalID: 6722398862588701504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_166
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 180.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4b8fc7ae852c4b0800000000000000
+      internalID: -5421673237258390312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_167
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 180.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c78a9739218f50800000000000000
+      internalID: 6881827024391358782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_168
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 180.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb844a67f42e5930800000000000000
+      internalID: 4133782153031093229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_169
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 144.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c3f7b4d4dca75e0800000000000000
+      internalID: -1910989360002548686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_170
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addc86b110b703bb0800000000000000
+      internalID: -4958327945049879078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_171
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 144.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2969fe0590a0e8fb0800000000000000
+      internalID: -4643763130643540334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_172
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 144.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8958a4fa5477b21f0800000000000000
+      internalID: -1068629345393015400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_173
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3b096e65aa85180800000000000000
+      internalID: -9126357354654157868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_174
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 144.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d11a11b2d63a3c20800000000000000
+      internalID: 3186919964860355030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_175
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 144.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199f04f451967e740800000000000000
+      internalID: 5181225436557932945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_176
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 144.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf6f4a5f6d338df0800000000000000
+      internalID: -179232011698868299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_177
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 144.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8815cd36022403a30800000000000000
+      internalID: 4192923959963701640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_178
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c523d016ee397a750800000000000000
+      internalID: 6316179654450164316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_179
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 108.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ff41e5de19546e0800000000000000
+      internalID: -1853915222921379949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_180
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 108.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4860fec2f38d040800000000000000
+      internalID: 4672554075618182338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_181
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 108.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7ea79bb04fc6b30800000000000000
+      internalID: 4282065676916156369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_182
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 108.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceb8ae122397d780800000000000000
+      internalID: -8658289983843942714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_183
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 108.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c68bdf3fb9dde50800000000000000
+      internalID: 6835791281654361141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_184
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 108.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87c654fbab711c70800000000000000
+      internalID: 8940062713776097166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_185
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 108.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ce6dd9276cf42b0800000000000000
+      internalID: -5598037616221557669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_186
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 108.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f65c380d54c3770800000000000000
+      internalID: 8591818950982332235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_187
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 72.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c099aa1c7f6f5e60800000000000000
+      internalID: 7953198045773533383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_188
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 72.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5946f97109a28e0800000000000000
+      internalID: -1717401876755606071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_189
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 72.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4607f9cb57db47140800000000000000
+      internalID: 4716603023137140836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_190
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 72.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca337116a40fcdc0800000000000000
+      internalID: -3616666864451372344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_191
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 72.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b2137ec79b3eb0800000000000000
+      internalID: -4739027269927651957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_192
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 72.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eda8817d997adb0800000000000000
+      internalID: -4780683330321719798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_193
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 72.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c100fbdd645fb0800000000000000
+      internalID: -4659978923029707760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_194
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 72.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12062519b1fbd04d0800000000000000
+      internalID: -3166664837848473567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_195
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 72.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d900525599ac952e0800000000000000
+      internalID: -2136453788303294307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_196
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 36.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0e06229f562090800000000000000
+      internalID: -8059649401824605400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_197
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fcb9cf1976d7b70800000000000000
+      internalID: 8898382315459956614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_198
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 36.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1be108d8a0e34e0800000000000000
+      internalID: -2000149581649759826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_199
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 36.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6d6bcdae4dd2770800000000000000
+      internalID: 8587754169655809754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_200
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 36.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb5b63058c48f70800000000000000
+      internalID: 9188689386583474018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_crab 1_201
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 36.95
+        width: 43
+        height: 36.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8997df93de012fd0800000000000000
+      internalID: -2368595626937575030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
